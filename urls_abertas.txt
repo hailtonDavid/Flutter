@@ -1,0 +1,2364 @@
+Entrada (51) - hailton.david@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+ESP32-CAM Take Photo and Save to MicroSD Card | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-take-photo-save-microsd-card/#more-85920
+
+Installing ESP32 in Arduino IDE (Windows, Mac OS X, Linux) | Random Nerd Tutorials
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+
+ESP32-CAM Video Streaming Web Server (works with Home Assistant) | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/#more-83379
+
+ESP32-CAM PIR Motion Detector with Photo Capture | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-pir-motion-detector-photo-capture/#more-88137
+
+ESP32-CAM Video Streaming and Face Recognition with Arduino IDE | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/#more-82418
+
+ESP32-CAM Take Photo and Display in Web Server | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-take-photo-display-web-server/#more-90367
+
+Composing Software: An Introduction - JavaScript Scene - Medium
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea
+
+9 Ways to Work With Objects in JavaScript in 2020 - Better Programming - Medium
+https://medium.com/better-programming/9-ways-to-work-with-objects-in-javascript-in-2020-d772c29db429
+
+Designing very large (JavaScript) applications - Malte Ubl - Medium
+https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3
+
+Please stop using Classes in JavaScript and become a better developer
+https://medium.com/javascript-in-plain-english/please-stop-using-classes-in-javascript-and-become-a-better-developer-a185c9fbede1
+
+Manning | Machine Learning with TensorFlow, Second Edition
+https://www.manning.com/books/machine-learning-with-tensorflow-second-edition?trk_msg=DHR5MVCLB9O4D9MP6GV01T324O&trk_contact=HV8MHC1E1I486E643HVLQHLUOO&trk_sid=JCAE1NC7GKTIK2GLP6E8P88FJ8&utm_source=Listrak&utm_medium=Email&utm_term=https%3a%2f%2fmanning.com%2fbooks%2fmachine-learning-with-tensorflow-second-edition&utm_campaign=Only+48+hours+left!+New+MEAPs+for+%2420!
+
+PRIMEIROS 30 MINUTOS COM FLUTTER - YouTube
+https://www.youtube.com/watch?v=-qgs_fVnCzI
+
+Facebook
+https://www.facebook.com/
+
+How To Detect The Location of Your Website’s Visitors Using JavaScript
+https://medium.com/better-programming/how-to-detect-the-location-of-your-websites-visitor-using-javascript-92f9e91c095f
+
+Detect_Location/README.md at master · AdeyinkaAdegbenro/Detect_Location · GitHub
+https://github.com/AdeyinkaAdegbenro/Detect_Location/blob/master/README.md
+
+Machine Learning | An Introduction - Towards Data Science
+https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0
+
+The Python Workshop
+https://www.packtpub.com/programming/the-python-workshop
+
+Loops - The Python Workshop
+https://subscription.packtpub.com/book/programming/9781839218859/1/ch01lvl1sec11/loops
+
+An Introduction to Java - The Startup - Medium
+https://medium.com/swlh/an-introduction-to-java-ad0c6821e52b
+
+5 Métodos para manipular strings em JavaScript - Dev Por Ai
+https://devporai.com.br/5-metodos-para-manipular-strings-em-javascript/?fbclid=IwAR3KLsk4ZAh4j37de76kaMMSdLaHm33askaoikT-nGuxTeFIasqvbthMJbA
+
+neuraljava | Neural networks and Deep learning tips and samples using Java
+http://neuraljava.com/cnn_java/?fbclid=IwAR2xZPl4juLFdxgWp6z6WaJ45EdT9vn5WrwJqUtThoPXZo7_DMBWBHJk1Sk
+
+Understanding Bayes’ Theorem - Towards Data Science
+https://towardsdatascience.com/understanding-bayes-theorem-7e31b8434d4b
+
+Como gerar QR Code com PHP e salvar no banco de dados - YouTube
+https://www.youtube.com/watch?v=ItiJA6eCf_c&feature=youtu.be
+
+Expo
+https://expo.io/dashboard/hailton
+
+Build A Real World Beautiful Web APP with Angular 8 — A to Z Ultimate Guide (2019) — PART I
+https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e
+
+FingerPrint Comparator | FaceGuard
+http://olharcomputacional.com/FingerPrint/
+
+How to Create Your First Machine Learning Model - Towards Data Science
+https://towardsdatascience.com/how-to-create-your-first-machine-learning-model-4c8f745e4b8c
+
+Primeiro App com React Native
+https://www.devmedia.com.br/primeiro-app-com-react-native/40737
+
+Dart programming language | Dart
+https://dart.dev/
+
+Linear to Logistic Regression, Explained Step by Step
+https://towardsdatascience.com/from-linear-to-logistic-regression-explained-step-by-step-11d7f0a9c29
+
+Everything is a Regression - Towards Data Science
+https://towardsdatascience.com/everything-is-just-a-regression-5a3bf22c459c
+
+An Extensive Step by Step Guide to Exploratory Data Analysis
+https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e
+
+Beyond Linear Regression: An Introduction to GLMs - Towards Data Science
+https://towardsdatascience.com/beyond-linear-regression-an-introduction-to-glms-7ae64a8fad9c
+
+Speedtest by Ookla - The Global Broadband Speed Test
+https://www.speedtest.net/result/8952727223
+
+CURSO COMPLETO DE GIT (2 HORAS E 30 MINUTOS) - YouTube
+https://www.youtube.com/watch?v=OuOb1_qADBQ&feature=youtu.be
+
+hailtonDavid/Flutter: Repositório de teste do Flutter
+https://github.com/hailtonDavid/Flutter
+
+Home Page - Select or create a notebook
+http://localhost:8888/tree?#notebooks
+
+Untitled2 - Jupyter Notebook
+http://localhost:8888/notebooks/Untitled2.ipynb
+
+Flutter widget index - Flutter
+https://flutter.dev/docs/reference/widgets
+
+Criação de Apps Android e iOS com Flutter - Crie 16 Apps | Udemy
+https://www.udemy.com/course/curso-completo-flutter-app-android-ios/learn/lecture/14765340#overview
+
+Probability Theory 101 for Dummies like Me - Towards Data Science
+https://towardsdatascience.com/probability-theory-101-for-dummies-like-me-a1aab91360b5
+
+A Visual Introduction to Clustering with KMeans - Towards Data Science
+https://towardsdatascience.com/visual-introduction-to-clustering-with-kmeans-89e71e97c60f
+
+Secretaria Virtual
+https://www.escolavirtual.gov.br/login
+
+Top 3 Pandas Functions for Beginners - Towards Data Science
+https://towardsdatascience.com/top-3-pandas-functions-for-beginners-36373ee47075
+
+Linear Algebra Data Structures and Operations - Towards Data Science
+https://towardsdatascience.com/linear-algebra-data-structures-and-operations-500d54db3447
+
+Mathematics Behind AI & Machine Learning - Towards Data Science
+https://towardsdatascience.com/mathematics-behind-ai-machine-learning-a065e16e900a
+
+Machine Learning Math Bundle | Machine Learning Mastery
+https://machinelearning.samcart.com/products/machine-learning-math-bundle/
+
+Loja Kindle - Statistical Methods for Machine Learning na Amazon.com.br
+https://www.amazon.com.br/s?k=Statistical+Methods+for+Machine+Learning&i=digital-text&page=3&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&qid=1579033162&ref=sr_pg_3
+
+Machine Learning Mathematics: Study Deep Learning Through Data Science. How to Build Artificial Intelligence Through Concepts of Statistics, Algorithms, Analysis and Data Mining (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/Machine-Learning-Mathematics-Artificial-Intelligence-ebook/dp/B07Z413J9J/ref=pd_sim_351_2/138-5052757-7337029?_encoding=UTF8&pd_rd_i=B07Z413J9J&pd_rd_r=c80579bd-160a-4dfc-a56c-e46fac531b95&pd_rd_w=AW807&pd_rd_wg=eyA9F&pf_rd_p=d8b852c2-a356-4723-9c70-f5925887a51f&pf_rd_r=SMSGQQVNANGW0BH330EH&psc=1&refRID=SMSGQQVNANGW0BH330EH
+
+Linear Regression 101 - Towards Data Science
+https://towardsdatascience.com/linear-regression-101-2fe898297b3
+
+Las etapas del dibujo infantil y su significado. Educapeques
+https://www.educapeques.com/escuela-de-padres/etapas-del-dibujo-infantil.html?no_cache=1
+
+Genetic Artificial Neural Networks - Towards Data Science
+https://towardsdatascience.com/genetic-artificial-neural-networks-d6b85578ba99
+
+How to train a neural network on Chrome using tensorflow.js
+https://towardsdatascience.com/how-to-train-a-neural-network-on-chrome-using-tensorflow-js-76dcd1725032
+
+Using JavaScript’s Object Constructor —Part 2 - Better Programming - Medium
+https://medium.com/better-programming/using-javascripts-object-constructor-entries-and-descriptors-7c76f28fae8e
+
+Linear Regression: Moneyball — Part 1 - Towards Data Science
+https://towardsdatascience.com/linear-regression-moneyball-part-1-b93b3b9f5b53
+
+How Can Beginners Create a Great Dashboard? - Towards Data Science
+https://towardsdatascience.com/how-can-beginners-create-a-great-dashboard-cf48c0f68cd5
+
+How to build a card game with Object Oriented Programming
+https://medium.com/@blakeeh723/how-to-build-a-card-game-with-object-oriented-programming-c43cd2cadb3a
+
+Welcome to Python 3.8 - The Startup - Medium
+https://medium.com/swlh/welcome-to-python-3-8-cc88111ea14a
+
+ID Estudantil
+http://idestudantil.mec.gov.br/#ajuda
+
+NLP Text Visualization & Twitter Sentiment Analysis in R
+https://medium.com/swlh/nlp-text-visualization-twitter-sentiment-analysis-in-r-65b14240258f
+
+A Simple Introduction to K-Nearest Neighbors Algorithm
+https://towardsdatascience.com/a-simple-introduction-to-k-nearest-neighbors-algorithm-b3519ed98e
+
+Celke
+https://celke.com.br/clms/aula-curso/view/2821
+
+Umbler
+https://app.umbler.com/analise-evolutiva.com.br/website
+
+http://analise-evolutiva.com.br/
+http://analise-evolutiva.com.br/
+
+500 - Erro interno
+https://app.umbler.com/error/_404
+
+How To Develop a Machine Learning Model From Scratch
+https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af
+
+Exploring JavaScript Promises in Depth | JavaScript in Plain English
+https://medium.com/javascript-in-plain-english/exploring-javascript-promises-in-depth-d07541c8ca9f
+
+Machine Learning From Scratch: Part 1 - Towards Data Science
+https://towardsdatascience.com/machine-learning-from-scratch-part-1-76603dececa6
+
+Clustering with K-means - Towards Data Science
+https://towardsdatascience.com/clustering-with-k-means-1e07a8bfb7ca
+
+How I (Sort of) Learned Computer Vision in a Couple Months
+https://towardsdatascience.com/how-i-sort-of-learned-computer-vision-in-a-month-c3faec83b3d6
+
+Writing Your Very First Neural Network in JavaScript
+https://medium.com/javascript-in-plain-english/writing-your-very-first-neural-network-in-javascript-e5be554acfac
+
+A Brief Introduction to NodeJS and Express - JavaScript in Plain English - Medium
+https://medium.com/javascript-in-plain-english/a-brief-introduction-to-nodejs-and-express-5f24e4df582b
+
+JavaScript Drag and Drop With Backend Interactivity
+https://medium.com/javascript-in-plain-english/javascript-drag-and-drop-with-backend-interactivity-90f5ed68e576
+
+Automating Pac-man with Deep Q-learning: An Implementation in Tensorflow.
+https://towardsdatascience.com/automating-pac-man-with-deep-q-learning-an-implementation-in-tensorflow-ca08e9891d9c
+
+Execution Context, Lexical Environment, and Closures in JavaScript
+https://medium.com/better-programming/execution-context-lexical-environment-and-closures-in-javascript-b57c979341a5
+
+An Introduction to Decision Trees with Python and scikit-learn
+https://towardsdatascience.com/an-introduction-to-decision-trees-with-python-and-scikit-learn-1a5ba6fc204f
+
+4 Simple SASS Techniques to Clean Up Your Code - The Startup - Medium
+https://medium.com/swlh/4-sass-techniques-to-tidy-up-your-code-83190e413516
+
+A Quick Introduction to the “Pandas” Python Library
+https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673
+
+How to Build a Real-time Chat App With NodeJS, Socket.IO, and MongoDB
+https://blog.usejournal.com/how-to-build-a-real-time-chat-app-with-nodejs-socket-io-and-mongodb-7a4c9472edd1
+
+Using JavaScript to Create Trello-Like Card Re-Arrange and Drag and Drop
+https://medium.com/javascript-in-plain-english/using-javascript-to-create-trello-like-card-re-arrange-and-drag-and-drop-557e60125bb4
+
+Celke
+https://celke.com.br/clms/aula-curso/view/2650
+
+Lorem Ipsum - All the facts - Lipsum generator
+https://www.lipsum.com/feed/html
+
+ESP32-CAM Video Streaming Web Server (works with Home Assistant) | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/#more-83379
+
+ESP32-CAM Take Photo and Save to MicroSD Card | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-take-photo-save-microsd-card/#more-85920
+
+ESP32-CAM Video Streaming and Face Recognition with Arduino IDE - YouTube
+https://www.youtube.com/watch?v=MicAM_A0_lU&feature=youtu.be
+
+Building a Simple Chatbot from Scratch in Python (using NLTK)
+https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
+
+Top AI algorithms for Healthcare - Sciforce - Medium
+https://medium.com/sciforce/top-ai-algorithms-for-healthcare-aa5007ffa330
+
+Understanding the Execution Models of async JavaScript and React
+https://medium.com/prodo-ai/understanding-the-execution-models-of-async-javascript-and-react-f0da7647a15a
+
+My Favorite Data Science/Machine Learning Resources
+https://medium.com/swlh/my-favorite-data-science-machine-learning-resources-6a76bd30b059
+
+Manning | Flutter in Action
+https://www.manning.com/books/flutter-in-action
+
+1 Meet Flutter - Flutter in Action MEAP V09
+https://livebook.manning.com/book/flutter-in-action/chapter-1?origin=product-toc
+
+Manning | Your Cart
+https://www.manning.com/cart/removeFromCart?productOfferingId=1944
+
+SQL queries don't start with SELECT - Julia Evans
+https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/
+
+Make Web Pages Dynamic by Manipulating the DOM - Better Programming - Medium
+https://medium.com/better-programming/make-web-pages-dynamic-by-manipulating-the-dom-d85a281da185
+
+Advanced JavaScript Techniques - Medium | JavaScript in Plain English
+https://medium.com/javascript-in-plain-english/javascript-shorthand-coding-techniques-part-1-c6bac8628e73
+
+An Introduction to GraphQL - HackerNoon.com - Medium
+https://medium.com/hackernoon/an-introduction-to-graphql-2c3f7d8fb4e0
+
+My Top 3 SQL Interview Questions - Towards Data Science
+https://towardsdatascience.com/my-top-3-sql-interview-questions-8a42597e8505
+
+Understanding The simple Mathematics Behind Simple Linear Regression
+https://medium.com/towards-artificial-intelligence/understanding-the-simple-maths-behind-simple-linear-regression-3ce4a30e7602
+
+Building a Rest API using Node and MongoDB - Codeuix - Medium
+https://medium.com/@uix/building-a-rest-api-using-node-and-mongodb-bf7ac086e8f7
+
+Understand the Superpower of Optional Chaining in JavaScript
+https://medium.com/javascript-in-plain-english/understand-the-superpower-of-optional-chaining-in-javascript-fbc569244471
+
+What is the Difference Between ‘for…in’ and ‘for…of’ in JavaScript?
+https://medium.com/better-programming/what-is-the-difference-between-for-in-and-for-of-in-javascript-650952654e97
+
+Let, Const, and Var: A Beginner’s Guide to Variable Declaration in JavaScript
+https://medium.com/the-non-traditional-developer/let-const-and-var-a-beginners-guide-to-variable-declaration-in-javascript-3486d6a4dfd5
+
+Creating a RESTful Web API with Node.js and Express.js from scratch
+https://medium.com/@metehansenol/creating-a-restful-web-api-with-node-js-and-express-js-from-scratch-9ba6e21d58b9
+
+Business Intelligence e Análise de Dados para Gestão do Negócio eBook: Ramesh Sharda, Dursun Delen, Efraim Turban: Amazon.com.br: Loja Kindle
+https://www.amazon.com.br/Business-Intelligence-An%C3%A1lise-Gest%C3%A3o-Neg%C3%B3cio-ebook/dp/B07YM1429C/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+
+A Taste of Functional Programming in Kotlin - The Startup - Medium
+https://medium.com/swlh/a-taste-of-functional-programming-in-kotlin-3b163b5c8101
+
+Understanding Cancer using Machine Learning - Towards Data Science
+https://towardsdatascience.com/understanding-cancer-using-machine-learning-84087258ee18
+
+Top 20 most frequently used Git commands - Towards Data Science
+https://towardsdatascience.com/top-20-most-frequently-used-git-commands-part-1-5f8c9212509f
+
+Complete Guide For ES6 Import And Export Syntax Changes
+https://medium.com/javascript-in-plain-english/complete-guide-for-es6-import-and-export-syntax-changes-95f930882fa
+
+Javascript Debugging in Chrome | JavaScript in Plain English
+https://medium.com/javascript-in-plain-english/debugging-in-chrome-b1d852973783
+
+AI, Deep Learning, Machine Learning & NLP: An Introduction
+https://towardsdatascience.com/ai-deep-learning-machine-learning-nlp-an-introduction-b5cacf736b4d
+
+Multiple Linear Regression-Beginner’s Guide - Towards Data Science
+https://towardsdatascience.com/multiple-linear-regression-beginners-guide-5b602d716aa3
+
+Recommendation System with Reinforcement Learning - Towards Data Science
+https://towardsdatascience.com/recommendation-system-with-reinforcement-learning-3362cb4422c8
+
+Computer Vision — Auto grading Handwritten Mathematical Answersheets
+https://towardsdatascience.com/computer-vision-auto-grading-handwritten-mathematical-answersheets-8974744f72dd
+
+A Guide to Decision Trees for Machine Learning and Data Science
+https://towardsdatascience.com/a-guide-to-decision-trees-for-machine-learning-and-data-science-fe2607241956
+
+K-means Clustering Python Example - Towards Data Science
+https://towardsdatascience.com/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203
+
+Regular Expressions in MySQL - The Startup - Medium
+https://medium.com/swlh/regular-expressions-in-mysql-ba45d5e9fc2b
+
+Emotion Detection: a Machine Learning Project - Towards Data Science
+https://towardsdatascience.com/emotion-detection-a-machine-learning-project-f7431f652b1f
+
+Decision Tree Algorithm — Explained - Towards Data Science
+https://towardsdatascience.com/decision-tree-algorithm-explained-83beb6e78ef4
+
+A Beginner’s Guide To Data Science - Towards Data Science
+https://towardsdatascience.com/a-beginners-guide-to-data-science-55edd0288973
+
+Por que utilizar a linguagem HTML no código do seu Arduino?
+https://medium.com/@automacaoem5minutos/por-que-utilizar-a-linguagem-html-no-c%C3%B3digo-do-seu-arduino-fa4c3c175a0e
+
+GUIA RÁPIDO #3 — Criando o seu primeiro projeto com ESP8266 NodeMCU
+https://medium.com/@automacaoem5minutos/guia-r%C3%A1pido-3-criando-o-seu-primeiro-projeto-com-esp8266-nodemcu-8ab2f08e5fae
+
+Introduction To Deep Learning - Teb’s Lab - Medium
+https://medium.com/tebs-lab/introduction-to-deep-learning-a46e92cb0022
+
+Text Mining in Python: Steps and Examples - Towards AI - Medium
+https://medium.com/towards-artificial-intelligence/text-mining-in-python-steps-and-examples-78b3f8fd913b
+
+Recent Advancements in NLP - Towards Data Science
+https://towardsdatascience.com/recent-advancements-in-nlp-2-2-df2ee75e189
+
+Understanding Arrow Functions once and for all! - JavaScript in Plain English - Medium
+https://medium.com/javascript-in-plain-english/understanding-arrow-functions-once-and-for-all-ad5b55fa42e
+
+Another Simple Guide to the Basics of A.I. - Towards Data Science
+https://towardsdatascience.com/more-machine-learning-for-people-who-know-nothing-about-machine-learning-e53174a8bdc
+
+A Simple Guide to the Basics of A.I. - Featured Stories - Medium
+https://medium.com/s/story/machine-learning-for-people-who-know-nothing-about-machine-learning-fcc312a53f12?
+
+Confidence Intervals Explained Simply for Data Scientists
+https://towardsdatascience.com/confidence-intervals-explained-simply-for-data-scientists-8354a6e2266b
+
+Get started with TensorFlow and Deep Learning Part-1
+https://medium.com/@rishit.dagli/get-started-with-tensorflow-and-deep-learning-part-1-72c7d67f99fc
+
+Doing your first sentiment analysis in R with Sentimentr
+https://towardsdatascience.com/doing-your-first-sentiment-analysis-in-r-with-sentimentr-167855445132
+
+Support Vector Machines Explained - Zach Bedell - Medium
+https://medium.com/@zachary.bedell/support-vector-machines-explained-73f4ec363f13
+
+How to build your first Neural Network to predict house prices with Keras
+https://medium.com/free-code-camp/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159
+
+Create CRUD Application in Express JS - Vaibhav Sharma - Medium
+https://medium.com/@vsvaibhav2016/create-crud-application-in-express-js-9b88a5a94299
+
+Setup Basic Server with Express Framework - Vanila Blog
+https://blog.vanila.io/setup-basic-server-with-express-framework-37b2ec749a6d
+
+Create HTTP Server in Node JS - Vaibhav Sharma - Medium
+https://medium.com/@vsvaibhav2016/create-http-server-in-node-js-a3a452477771
+
+Doing your first sentiment analysis in R with Sentimentr
+https://towardsdatascience.com/doing-your-first-sentiment-analysis-in-r-with-sentimentr-167855445132
+
+A Beginner’s Guide to Preprocessing Text Data Using NLP
+https://towardsdatascience.com/a-beginners-guide-to-preprocessing-text-data-using-nlp-tools-5cb52a8d3cd
+
+Receptor todos os canais - Pesquisa Google
+https://www.google.com.br/search?biw=2560&bih=938&ei=w94JXuyMHI-55OUP1ICr8A0&q=Receptor+todos+os+canais&oq=Receptor+todos+os+canais&gs_l=psy-ab.3...3772.9321..9538...2.2..0.121.2033.17j4......0....1..gws-wiz.......0i71j0i67j0j0i10j0i22i30j0i22i10i30.R468TvYWL6w&ved=0ahUKEwis-ufaod3mAhWPHLkGHVTACt44ChDh1QMICg&uact=5
+
+The 10 Books I’ll Be ‘Studying’ Instead of Reading In 2020
+https://medium.com/navigating-life/the-10-books-ill-be-studying-instead-of-reading-in-2020-759b761eb1d0
+
+Build a Compass App in Flutter - ITNEXT
+https://itnext.io/build-a-compass-app-in-flutter-b49a78aa951d
+
+An introduction to context-oriented programming in Kotlin
+https://proandroiddev.com/an-introduction-context-oriented-programming-in-kotlin-2e79d316b0a2
+
+How to Get Started with SQL - ODSC - Open Data Science - Medium
+https://medium.com/@ODSC/how-to-get-started-with-sql-244f991de4b2
+
+JavaScript Interview Questions You Need To Know - JavaScript in Plain English - Medium
+https://medium.com/javascript-in-plain-english/javascript-interview-questions-you-need-to-know-26fbdda23d6e
+
+More JavaScript Array Tips - Better Programming - Medium
+https://medium.com/better-programming/more-javascript-array-tips-replacing-and-mapping-entries-2fb4c0b139d8
+
+A Light Introduction to Text Analysis in R - Towards Data Science
+https://towardsdatascience.com/a-light-introduction-to-text-analysis-in-r-ea291a9865a8
+
+excel – Towards Data Science
+https://towardsdatascience.com/search?q=excel
+
+It’s OK to use spreadsheets in data science - Towards Data Science
+https://towardsdatascience.com/its-ok-to-use-spreadsheets-in-data-science-c1d0eff95b8b
+
+Complex SQL on Excel Spreadsheets - Towards Data Science
+https://towardsdatascience.com/complex-sql-on-excel-spreadsheets-274bc93ade89
+
+A Better Excel Goal Seek using Python - Towards Data Science
+https://towardsdatascience.com/a-better-excel-goal-seek-using-python-fb6aff56e9f2
+
+Writing to Excel with Python | MicroPython - Towards Data Science
+https://towardsdatascience.com/writing-to-excel-with-python-micropython-42cf9541c101
+
+Demystifying Feed-forward and Back-propagation using MS Excel
+https://towardsdatascience.com/demystifying-feed-forward-and-back-propagation-using-ms-excel-30f5aeefcfc7
+
+Interactive Neural Network Fun in Excel - Towards Data Science
+https://towardsdatascience.com/interactive-neural-network-fun-in-excel-8bad2b3a5d9d
+
+Learn SQL By Using Excel As A Bridge - Towards Data Science
+https://towardsdatascience.com/learn-sql-by-using-excel-as-a-bridge-30cea4d314e0
+
+Replacing VBA with Java in Excel - Towards Data Science
+https://towardsdatascience.com/replacing-vba-with-java-in-excel-e9f5e28d4e5c
+
+Generate News Sentiment Scores in Excel - Towards Data Science
+https://towardsdatascience.com/https-towardsdatascience-com-generate-news-sentiment-scores-in-excel-1edddfc25163
+
+Text Classification in Android with TensorFlow - Towards Data Science
+https://towardsdatascience.com/spam-classification-in-android-with-tensorflow-lite-cde417e81260
+
+Intro to Reading and Writing Spreadsheets with Python
+https://towardsdatascience.com/intro-to-reading-and-writing-spreadsheets-with-python-b635ae514ab8
+
+Merging Spreadsheets with Python–Append - Towards Data Science
+https://towardsdatascience.com/merging-spreadsheets-with-python-append-f6de2d02e3f3
+
+Jupyter is the new Excel - Towards Data Science
+https://towardsdatascience.com/jupyter-is-the-new-excel-a7a22f2fc13a
+
+Jupyter is the new Excel (but not for your boss) - Towards Data Science
+https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314
+
+Netflix and Chill: Building a Recommendation System in Excel
+https://towardsdatascience.com/netflix-and-chill-building-a-recommendation-system-in-excel-c69b33c914f4
+
+Data Analytics is hard… Here’s how you can excel - Towards Data Science
+https://towardsdatascience.com/data-analytics-is-hard-here-how-you-can-excel-aa2a99d0fad0
+
+Replacing Excel with Python - Towards Data Science
+https://towardsdatascience.com/replacing-excel-with-python-30aa060d35e
+
+Understanding Neural Networks Using Excel - Towards Data Science
+https://towardsdatascience.com/understanding-convolutions-using-excel-886ca0a964b7
+
+Announcing the Launch of New Text Analytics Excel Add-In version: Here’s what improved!
+https://towardsdatascience.com/announcing-the-launch-of-new-text-analytics-excel-add-in-version-heres-what-improved-c3592a9a162
+
+Cutting-Edge Face Recognition is Complicated. These Spreadsheets Make it Easier.
+https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-these-spreadsheets-make-it-easier-e7864dbf0e1a
+
+3 Types of Reports That Business Analysts Need to Learn
+https://towardsdatascience.com/3-types-of-reports-that-business-analysts-need-to-learn-4e02f2f7e48e
+
+Data Analytics is hard… Here’s how you can excel - Towards Data Science
+https://towardsdatascience.com/data-analytics-is-hard-here-how-you-can-excel-aa2a99d0fad0
+
+File upload with Node & React - Signature Networks - Medium
+https://medium.com/signature-networks/file-upload-with-node-js-react-js-686e342ad7e7
+
+A Light Introduction to Text Analysis in R - Towards Data Science
+https://towardsdatascience.com/a-light-introduction-to-text-analysis-in-r-ea291a9865a8
+
+Linear Regression – Towards Data Science
+https://towardsdatascience.com/search?q=Linear%20Regression
+
+Linear Regression — Understanding the Theory - Towards Data Science
+https://towardsdatascience.com/linear-regression-understanding-the-theory-7e53ac2831b5
+
+Interpreting the coefficients of linear regression - Towards Data Science
+https://towardsdatascience.com/interpreting-the-coefficients-of-linear-regression-cc31d4c6f235
+
+Mathematics for Machine Learning : Linear Regression & Least Square Regression
+https://towardsdatascience.com/mathematics-for-machine-learning-linear-regression-least-square-regression-de09cf53757c
+
+Linear Regression - Towards Data Science
+https://towardsdatascience.com/simple-linear-regression-2421076a5892
+
+Supervised Learning: Basics of Linear Regression - Towards Data Science
+https://towardsdatascience.com/supervised-learning-basics-of-linear-regression-1cbab48d0eba
+
+Supervised Machine Learning Using Linear Regression: Part1
+https://towardsdatascience.com/supervised-machine-learning-using-linear-regression-part1-ed59d0136be8
+
+Layman’s Introduction to Linear Regression - Towards Data Science
+https://towardsdatascience.com/laymans-introduction-to-linear-regression-8b334a3dab09
+
+Building Your First Machine Learning Model: Linear Regression Estimator
+https://towardsdatascience.com/building-your-first-machine-learning-model-linear-regression-estimator-ba86450c4d24
+
+The Complete Hands-On Machine Learning Crash Course
+https://towardsdatascience.com/the-complete-hands-on-machine-learning-crash-course-59e43c8cee52
+
+5 Reasons “Logistic Regression” should be the first thing you learn when becoming a Data Scientist
+https://towardsdatascience.com/5-reasons-logistic-regression-should-be-the-first-thing-you-learn-when-become-a-data-scientist-fcaae46605c4
+
+Mathematics for AI: Linear Algebra and How to Understand It Better
+https://towardsdatascience.com/mathematics-for-ai-linear-algebra-and-how-to-understand-it-better-63b430999069
+
+A Comprehensive Study of Linear vs Logistic Regression to refresh the Basics
+https://towardsdatascience.com/a-comprehensive-study-of-linear-vs-logistic-regression-to-refresh-the-basics-7e526c1d3ebe
+
+Linear Regression Model - Towards Data Science
+https://towardsdatascience.com/linear-regression-model-899558ba0fc4
+
+Linear Regression with example - Towards Data Science
+https://towardsdatascience.com/linear-regression-with-example-8daf6205bd49
+
+Understanding the Fundamentals of Linear Regression
+https://towardsdatascience.com/understanding-the-fundamentals-of-linear-regression-7e64afd614e1
+
+Machine Learning: Simple Linear Regression with Python
+https://towardsdatascience.com/machine-learning-simple-linear-regression-with-python-f04ecfdadc13
+
+Everything You Need To Know About Linear Regression
+https://towardsdatascience.com/everything-you-need-to-know-about-linear-regression-b791e8f4bd7a
+
+P-value Explained Simply for Data Scientists - Towards Data Science
+https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14
+
+What is P-value? - Towards Data Science
+https://towardsdatascience.com/what-is-a-p-value-b9e6c207247f
+
+Hypothesis tests and p-value: a gentle introduction
+https://towardsdatascience.com/hypothesis-tests-and-p-value-a-gentle-introduction-4b52322bfc50
+
+P-values Explained By Data Scientist - Towards Data Science
+https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8
+
+Demystifying hypothesis testing with simple Python examples
+https://towardsdatascience.com/demystifying-hypothesis-testing-with-simple-python-examples-4997ad3c5294
+
+Inferential Statistics: Understanding Hypothesis Testing Using Chi-Square Test
+https://towardsdatascience.com/inferential-statistic-understanding-hypothesis-testing-using-chi-square-test-eacf9fcac533
+
+A brief introduction of some common statistical tests
+https://towardsdatascience.com/a-brief-introduction-of-some-common-statistical-tests-5f2963014641
+
+Hypothesis Testing — An Introduction - Towards Data Science
+https://towardsdatascience.com/hypothesis-testing-i-introduction-9d4f769fef3
+
+Search and find – Medium
+https://medium.com/search?q=android%20barcode%20scanner
+
+Lendo QR Code com JS - Ray Carneiro - Medium
+https://medium.com/@rcarneironet/lendo-qr-code-com-js-23ae6433a467
+
+Lendo QR Code com JS (instascan.js) / Reading QR Code with JS - YouTube
+https://www.youtube.com/watch?v=6mRf7F1eVPQ&feature=youtu.be
+
+rcarneironet/qrcode-js: Creating and reading QR Code using Javascript
+https://github.com/rcarneironet/qrcode-js
+
+Building HTML5 Barcode Reader with Pure JavaScript SDK
+https://medium.com/@yushulx/building-html5-barcode-reader-with-pure-javascript-sdk-842391372818
+
+yushulx/zxing-cpp-emscripten: ZXing WebAssembly Library
+https://github.com/yushulx/zxing-cpp-emscripten
+
+Implementing A Barcode Scanner by Using React Native Camera
+https://medium.com/@dinukadilshanfernando/implementing-a-barcode-scanner-by-using-react-native-camera-b170de4b7f51
+
+Create Barcode Scanner For Android Using Kotlin - Bits and pieces of my mind
+https://ariefbayu.xyz/create-barcode-scanner-for-android-using-kotlin-b1a9b1c4d848
+
+ariefbayu/xyz-barcode-scanner
+https://github.com/ariefbayu/xyz-barcode-scanner
+
+Face Recognition for Beginners - Towards Data Science
+https://towardsdatascience.com/face-recognition-for-beginners-a7a9bd5eb5c2
+
+Realtime Face Recognition in the Browser - Goran Jovanov - Medium
+https://medium.com/@gjovanov/realtime-face-recognition-de1ee3076878
+
+Building a Node.js application on Android - freeCodeCamp.org - Medium
+https://medium.com/free-code-camp/building-a-node-js-application-on-android-part-2-express-and-nedb-ced04caea7bb
+
+Your first Node.js app with Kotlin - Miguel Beltran - Medium
+https://medium.com/@MiBLT/your-first-node-js-app-with-kotlin-30e07baa0bf7
+
+How to create a Node.js web app using no external packages
+https://medium.com/free-code-camp/a-no-frills-guide-to-node-js-how-to-create-a-node-js-web-app-without-external-packages-a7b480b966d2
+
+Node.js REST API Facebook Login - codeburst
+https://codeburst.io/node-js-rest-api-facebook-login-121114ee04d8
+
+How to send an SMS in Node.js via SMPP Gateway - freeCodeCamp.org - Medium
+https://medium.com/free-code-camp/how-to-send-an-sms-in-node-js-via-smpp-gateway-9c7b12e4600a
+
+Build A RESTful Api With Node.js And Express.Js Part One
+https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb
+
+Creating A GraphQL Server With Node.js And Express - CodingTheSmartWay.com Blog - Medium
+https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1
+
+Node.js + OpenCV for Face Recognition - Vincent Mühler - Medium
+https://medium.com/@muehler.v/node-js-opencv-for-face-recognition-37fa7cb860e8
+
+All About Node.Js You Wanted To Know ? - codeburst
+https://codeburst.io/all-about-node-js-you-wanted-to-know-25f3374e0be7
+
+Easy Google Auth for Node.js - Jack Scott - Medium
+https://medium.com/@jackrobertscott/how-to-use-google-auth-api-with-node-js-888304f7e3a0
+
+What exactly is Node.js? - freeCodeCamp.org - Medium
+https://medium.com/free-code-camp/what-exactly-is-node-js-ae36e97449f5
+
+The definitive Node.js handbook - freeCodeCamp.org - Medium
+https://medium.com/free-code-camp/the-definitive-node-js-handbook-6912378afc6e
+
+Build a Node.js API in Under 30 Minutes - freeCodeCamp.org - Medium
+https://medium.com/free-code-camp/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2
+
+Node.js + face-recognition.js : Simple and Robust Face Recognition using Deep Learning
+https://medium.com/@muehler.v/node-js-face-recognition-js-simple-and-robust-face-recognition-using-deep-learning-ea5ba8e852
+
+Machine Learning in Node.js With TensorFlow.js - ITNEXT
+https://itnext.io/machine-learning-in-node-js-with-tensorflow-js-2588fc2d0cd0
+
+Serverless Machine Learning With TensorFlow.js - Apache OpenWhisk - Medium
+https://medium.com/openwhisk/serverless-machine-learning-with-tensorflow-js-4aa24494a9b4
+
+Build a Fully Functioning App Leveraging Machine Learning with TensorFlow.js
+https://medium.com/@mppise/build-a-fully-functioning-app-leveraging-machine-learning-with-tensorflow-js-95c0fceb6d51
+
+TensorFlow.js Crash Course — Machine Learning For The Web — Handwriting Recognition
+https://medium.com/codingthesmartway-com-blog/tensorflow-js-crash-course-machine-learning-for-the-web-handwriting-recognition-febc309b10aa
+
+Getting started with TensorFlow.js — Simple AND Gate Implementation
+https://medium.com/biorhythm-technologies/getting-started-with-tensorflow-js-simple-and-gate-implementation-9e6e47214ab6
+
+Reconocimiento de imágenes en la web utilizando TensorFlow.js
+https://medium.com/@ManuCastrillonM/reconocimiento-de-im%C3%A1genes-en-la-web-utilizando-tensorflow-js-c199824cb18b
+
+Basic Tutorial with TensorFlow.js: Linear Regression
+https://medium.com/@tristansokol/basic-tutorial-with-tensorflow-js-linear-regression-aa68b16e5b8e
+
+Comprehensive TensorFlow.js Example - Towards Data Science
+https://towardsdatascience.com/comprehensive-tensorflow-js-example-96367625fab7
+
+Getting Started with Tensorflow.js: A Tutorial - Grace Daher - Medium
+https://medium.com/@lahermanaluna/getting-started-with-tensorflow-js-7322b69ba113
+
+Image Classification : Machine Learning in Node.js with TensorFlow.js
+https://becominghuman.ai/image-classification-machine-learning-in-node-js-with-tensorflow-js-dd8e20ba5024
+
+Classificando textos com Redes Neurais e TensorFlow
+https://medium.com/@dehhmesquita/classificando-textos-com-redes-neurais-e-tensorflow-5063784a1b31
+
+Gesture Detection Using Tensorflowjs - Roshan Choxi - Medium
+https://medium.com/@choxi/gesture-detection-using-tensorflowjs-cedfdc9dbab6
+
+A quick introduction to TensorFlow.js - freeCodeCamp.org - Medium
+https://medium.com/free-code-camp/a-quick-introduction-to-tensorflow-js-a046e2c3f1f2
+
+Understanding Logistic Regression in Machine Learning
+https://medium.com/analytics-vidhya/understanding-logistic-regression-in-machine-learning-3d2185da5b70
+
+Facial Emotion Detection using AI: Use-Cases - Towards Data Science
+https://towardsdatascience.com/facial-emotion-detection-using-ai-use-cases-248b932200d6
+
+Build A Chat App With Sentiment Analysis Using Next.js
+https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643
+
+A Beginner’s Guide to Sentiment Analysis - Matt Kiser - Medium
+https://medium.com/@mattkiser/a-beginner-s-guide-to-sentiment-analysis-888390a8085a
+
+How to Perform Sentiment analysis in Excel Without Writing Code?
+https://towardsdatascience.com/how-to-perform-sentiment-analysis-in-excel-without-writing-code-8a9e66115447
+
+Functional Sentiment Analysis in JavaScript - ITNEXT
+https://itnext.io/functional-sentiment-analysis-in-javascript-754f58628746
+
+Sentiment Analysis: Concept, Analysis and Applications
+https://itnext.io/sentiment-analysis-concept-analysis-and-applications-8b2c1c6fd77a
+
+Sentiment Analysis - Corsair's Business
+https://corsairs-business.corsairs.network/sentiment-analysis-9fafcfe88b77
+
+Introduction to SQL
+https://flaviocopes.com/sql-introduction/
+
+What is a Database? And a DBMS?
+https://flaviocopes.com/what-is-a-database/
+
+Relational Databases
+https://flaviocopes.com/relational-databases/
+
+Relational Algebra
+https://flaviocopes.com/relational-algebra/
+
+The Relational Model
+https://flaviocopes.com/relational-model/
+
+Introduction to the ER Data Model
+https://flaviocopes.com/entity-relationship/
+
+Data models
+https://flaviocopes.com/data-models/
+
+Conversando em Hexadecimal com o Módulo de voz V3 (Parte 2) - Reconhecimento de Voz# 62 - YouTube
+https://www.youtube.com/watch?v=RJHlgOO3XyI&t=1222s
+
+Conversando em Hexadecimal com o Módulo de voz V3 - Parte 1 - Reconhecimento de Voz# 61 - YouTube
+https://www.youtube.com/watch?v=KBgt_yQ96fE&t=1357s
+
+K-Nearest Neighbors (KNN) Algorithm for Machine Learning
+https://medium.com/capital-one-tech/k-nearest-neighbors-knn-algorithm-for-machine-learning-e883219c8f26
+
+A Brief Introduction to Supervised Learning - Towards Data Science
+https://towardsdatascience.com/a-brief-introduction-to-supervised-learning-54a3e3932590
+
+Understanding Artificial Intelligence - Future Today - Medium
+https://medium.com/future-today/understanding-artificial-intelligence-f800b51c767f
+
+The complete beginner’s guide to machine learning: simple linear regression in four lines of code!
+https://towardsdatascience.com/simple-linear-regression-in-four-lines-of-code-d690fe4dba84
+
+K-Nearest Neighbors and its Optimization - Towards Data Science
+https://towardsdatascience.com/k-nearest-neighbors-and-its-optimization-2e3f6797af04
+
+facial expressions java - Pesquisa Google
+https://www.google.com.br/search?q=facial+expressions+java&ei=3bD8XZXmN5TQ5OUPvuCAkA8&start=30&sa=N&ved=2ahUKEwjVyJiOkMTmAhUUKLkGHT4wAPI4FBDw0wN6BAgNEEU&biw=2560&bih=938
+
+How to Understand Body Language and Facial Expressions
+https://www.verywellmind.com/understand-body-language-and-facial-expressions-4147228
+
+Facial expression recognition for java - Pesquisa Google
+https://www.google.com.br/search?q=Facial+expression+recognition+for+java&ei=1q78XfvTIJbQ5OUPp5as6AQ&start=10&sa=N&ved=2ahUKEwj7lsSWjsTmAhUWKLkGHScLC00Q8NMDegQIDRBE&biw=2560&bih=938
+
+Facial expression recognition for java - Google Acadêmico
+https://scholar.google.com.br/scholar?start=40&q=Facial+expression+recognition+for+java&hl=pt-BR&as_sdt=0,5&as_ylo=2019&as_vis=1
+
+ULearn: understanding and reacting to student frustration using deep learning, mobile vision and NLP
+https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11018/110180W/ULearn--understanding-and-reacting-to-student-frustration-using-deep/10.1117/12.2518262.short?SSO=1
+
+Text Emotion Recognition - Pesquisa Google
+https://www.google.com.br/search?source=hp&ei=arP8XY3eE-Kf5OUP1I2CgAI&q=Text+Emotion+Recognition&oq=Text+Emotion+Recognition&gs_l=psy-ab.3..0i19l4j0i22i30i19l6.540.540..1788...0.0..0.146.146.0j1......0....2j1..gws-wiz.DRV4kKfcm7c&ved=0ahUKEwiNu6TFksTmAhXiD7kGHdSGACAQ4dUDCAU&uact=5
+
+Text Emotion Recognition - Google Acadêmico
+https://scholar.google.com.br/scholar?start=90&q=Text+Emotion+Recognition&hl=pt-BR&as_sdt=0,5&as_vis=1
+
+20+ Emotion Recognition APIs That Will Leave You Impressed, and Concerned | Nordic APIs |
+https://nordicapis.com/20-emotion-recognition-apis-that-will-leave-you-impressed-and-concerned/
+
+Tutorial de reconhecimento facial  |  Documentação da API Cloud Vision  |  Google Cloud
+https://cloud.google.com/vision/docs/face-tutorial?hl=pt-br
+
+Decision Tree in Machine Learning - Towards Data Science
+https://towardsdatascience.com/decision-tree-in-machine-learning-e380942a4c96
+
+Supervised Learning: Basics of Linear Regression - Towards Data Science
+https://towardsdatascience.com/supervised-learning-basics-of-linear-regression-1cbab48d0eba
+
+Machine Learning uses facial expressions to distinguish between depression and suicidal behavior
+https://medium.com/hackernoon/machine-learning-uses-facial-expressions-to-distinguish-between-depression-and-suicidal-behavior-c9e1cd095026
+
+[Personal Notes] Deep Learning by Andrew Ng — Course 1: Neural Networks and Deep Learning
+https://medium.com/@keonyonglee/bread-and-butter-from-deep-learning-by-andrew-ng-course-1-neural-networks-and-deep-learning-41563b8fc5d8
+
+3 Programming Concepts for Data Scientists - Towards Data Science
+https://towardsdatascience.com/three-programming-concepts-for-data-scientists-c264fc3b1de8
+
+Curso: Qualificação Docente para Ensino de Programação de Computadores
+https://profeberssa.com/faceduc/course/view.php?id=41
+
+Single Sign On | Manning Publications
+https://login.manning.com/login?service=https%3A%2F%2Fwww.manning.com%2Flogin%2Fcas
+
+Amazon.com.br eBooks Kindle: Mio figlio è (quasi) un adolescente (Italian Edition), Evi Crotti, Alberto Magni
+https://www.amazon.com.br/Mio-figlio-quasi-adolescente-Italian-ebook/dp/B078GPVFNK/ref=sr_1_12?qid=1577736514&refinements=p_27%3AAlberto+Magni&s=books&sr=1-12
+
+Prime Video
+https://www.primevideo.com/ref=av_auth_return_redir
+
+Linear Regression Model - Towards Data Science
+https://towardsdatascience.com/linear-regression-model-899558ba0fc4
+
+Machine Learning Simplified! - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/machine-learning-simplified-3f964c1a64a6
+
+Decision Trees in Machine Learning - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/decision-trees-in-machine-learning-f362b296594a
+
+Part-of-Speech tagging tutorial with the Keras Deep Learning library
+https://becominghuman.ai/part-of-speech-tagging-tutorial-with-the-keras-deep-learning-library-d7f93fa05537
+
+TensorFlow Object Detection API tutorial — Training and Evaluating Custom Object Detector
+https://becominghuman.ai/tensorflow-object-detection-api-tutorial-training-and-evaluating-custom-object-detector-ed2594afcf73
+
+Deep Learning Book Notes, Chapter 1 - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/deep-learning-book-notes-chapter-1-b310837c76cf
+
+Deep Learning Book Notes, Chapter 2: Linear Algebra for Deep Learning
+https://becominghuman.ai/deep-learning-book-notes-chapter-2-linear-algebra-for-deep-learning-af776cf52506
+
+Essence of linear algebra preview - YouTube
+https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+Visual Music & Machine Learning Workshop for Kids - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/visual-music-machine-learning-workshop-for-kids-a90c957dab33
+
+Machines Demonstrate Self-Awareness - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/machines-demonstrate-self-awareness-8bd08ceb1694
+
+Let’s build a simple Neural Net! - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/lets-build-a-simple-neural-net-f4474256647f
+
+Keras Cheat Sheet: Neural Networks in Python - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/keras-cheat-sheet-neural-networks-in-python-738c0d170c2e
+
+Introduction to deep learning | Python
+https://campus.datacamp.com/courses/deep-learning-in-python/basics-of-deep-learning-and-neural-networks?ex=1
+
+Making a Simple Neural Network - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/making-a-simple-neural-network-2ea1de81ec20
+
+Google will beat Apple at its own game with superior AI
+https://becominghuman.ai/google-will-beat-apple-at-its-own-game-with-superior-ai-534ab3ada949
+
+An intuitive introduction to Machine Learning - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/an-intuitive-introduction-to-machine-learning-57b2b1bd3d6
+
+The Balance of Passive vs. Active A.I. - Becoming Human: Artificial Intelligence Magazine
+https://becominghuman.ai/the-balance-of-passive-vs-active-a-i-5e2ab6a0561e
+
+Advanced JavaScript Techniques - JavaScript in Plain English - Medium
+https://medium.com/javascript-in-plain-english/advanced-javascript-techniques-d7f55be9d3b
+
+Better Null-Handling With Java Optionals - Better Programming - Medium
+https://medium.com/better-programming/better-null-handling-with-java-optionals-4793a8566710
+
+A Beginner’s Guide to Server-Side Web Development with Node.js
+https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93
+
+NEA Cover Playgrounds
+https://my.nea-edicoes.com/cover_playgrounds/d378e2/make_book
+
+Ingimage | Stock Image Details: ING_19061_32041 - Laboratory test. Close up of scientist hand holding glass dish
+https://www.ingimage.com/imagedetails/94547085/ING_19061_32041-Ingimage-contributors-Laboratory%2Dtest%2DClose%2Dup%2Dof%2Dscientist%2Dhand%2Dholding.html
+
+How to write a CSV file with Node.js
+https://flaviocopes.com/node-write-csv/
+
+How to read a CSV file with Node.js
+https://flaviocopes.com/node-read-csv/
+
+Information systems, data and information
+https://flaviocopes.com/data-information/
+
+How to make a page editable in the browser
+https://flaviocopes.com/designmode/
+
+How to disable an ESLint rule
+https://flaviocopes.com/how-to-disable-eslint-rule/
+
+Introduction to functional JavaScript programming - Dominik Freier - Medium
+https://medium.com/@DominikFreier/introduction-to-functional-javascript-programming-28dfb902787d
+
+Stop Putting So Many If Statements in Your JavaScript
+https://medium.com/better-programming/stop-putting-so-many-if-statements-in-your-javascript-3b65aaa4b86b
+
+How I made my own YouTube Downloader using JavaScript and Node.js
+https://blog.usejournal.com/how-i-made-my-own-youtube-downloader-using-javascript-and-node-js-160b172f6e10
+
+Error
+http://localhost:4000/
+
+Mastering JS console.log like a Pro - JavaScript in Plain English - Medium
+https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9
+
+Machine Learning in JavaScript - Towards Data Science
+https://towardsdatascience.com/machine-learning-in-javascript-b8b0f9f149aa
+
+Modern Javascript Techniques - Better Programming - Medium
+https://medium.com/better-programming/modern-javascript-techniques-cf2084236af4
+
+ESP32-CAM Troubleshooting Guide: Most Common Problems Fixed | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-troubleshooting-guide/
+
+ESP32-CAM Take Photo and Display in Web Server | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-take-photo-display-web-server/
+
+ESP32-CAM PIR Motion Detector with Photo Capture | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-pir-motion-detector-photo-capture/
+
+ESP32-CAM Take Photo and Save to MicroSD Card | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-take-photo-save-microsd-card/
+
+ESP32-CAM Video Streaming Web Server (works with Home Assistant) | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/
+
+ESP32-CAM Video Streaming and Face Recognition with Arduino IDE | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
+
+Building A Fitness App With Flutter: Devlog #1 - Austin Howard Tech - Medium
+https://medium.com/@austinhowardtech/building-a-fitness-app-with-flutter-devlog-1-eecf2bf6f5c5
+
+Online Machine Learning with Tensorflow.js - Towards Data Science
+https://towardsdatascience.com/online-machine-learning-with-tensorflow-js-2ae232352901
+
+facebook login graph api example - Pesquisa Google
+https://www.google.com.br/search?ei=gRzyXdL0KPe55OUPlbqNmA0&q=facebook+login+graph+api+example&oq=facebook+login+graph&gs_l=psy-ab.3.2.0i19l2j0i22i30i19l5.64342.66244..70245...0.2..0.138.767.0j6......0....1..gws-wiz.......0i71j0i67j0i131j0j0i22i30.uYOQl5-UnYE
+
+Como usar a Graph API
+https://developers.facebook.com/docs/graph-api/using-graph-api/
+
+https://developers.facebook.com/docs/facebook-login/web
+https://developers.facebook.com/docs/facebook-login/web
+
+jeduan/cordova-plugin-facebook4: Use the latest Facebook SDK in your Cordova and Ionic projects
+https://github.com/jeduan/cordova-plugin-facebook4
+
+Como Conectar Cordova com Login do Facebook ? | Multiplataforma | Alura - Cursos online de tecnologia
+https://cursos.alura.com.br/forum/topico-como-conectar-cordova-com-login-do-facebook-39641
+
+SitePoint Premium
+https://www.sitepoint.com/premium/books/javascript-best-practice/read/1/jyqyop8r
+
+ccoenraets/OpenFB: Micro-library that lets you integrate browser and Cordova apps with Facebook with no plugin or SDK dependency.
+https://github.com/ccoenraets/OpenFB
+
+Add Facebook Native Login to your Ionic App
+https://ionicthemes.com/tutorials/about/native-facebook-login-with-ionic-framework
+
+Wizcorp/phonegap-facebook-plugin: The official plugin for Facebook in Apache Cordova/PhoneGap
+https://github.com/Wizcorp/phonegap-facebook-plugin
+
+Bb Collaborate - TOC: do diagnóstico ao tratamento - recording_1
+https://us.bbcollab.com/collab/ui/session/playback
+
+exemplo de login facebook javascript - Pesquisa Google
+https://www.google.com.br/search?ei=GTPxXcWAAuu45OUPiJGVqAw&q=exemplo+de+login+facebook+javascript&oq=exemplo+de+login+face&gs_l=psy-ab.3.1.33i160l2.1746.8421..10321...0.2..0.218.2808.2j17j3......0....1..gws-wiz.....0..0i71j0i67j0j0i22i30.-2wj4sKMRSw
+
+ESP32/ESP8266 Publish Data to Raspberry Pi LAMP Server | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-esp8266-raspberry-pi-lamp-server/
+
+Input Data on HTML Form ESP32/ESP8266 Web Server Arduino IDE | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-esp8266-input-data-html-form/
+
+Getting Started with the ESP32 Development Board | Random Nerd Tutorials
+https://randomnerdtutorials.com/getting-started-with-esp32/
+
+Build an ESP8266 Web Server - Code and Schematics (NodeMCU) | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp8266-web-server/
+
+5 estratégias de sucesso para alavancar suas vendas
+https://www.lojavirtual.com.br/blog/5-estrategias-de-sucesso-para-alavancar-suas-vendas/?utm_campaign=estrategias_de_sucesso_para_alavancar_vendas_-_leads_ativos&utm_medium=email&utm_source=RD+Station
+
+:: NS UEG ::
+http://www.nucleodeselecao.ueg.br/
+
+Núcleo de Seleção - UNIVERSIDADE ESTADUAL DE GOIAS
+https://aplicacao.ns.ueg.br/default.asp?pg=1
+
+Formulário de Inscrição
+https://aplicacao.ns.ueg.br/formularios/262/inscricao.asp?codigo=262&codtipo=9
+
+How to Get Started as a Developer in AI - Towards Data Science
+https://towardsdatascience.com/how-to-get-started-as-a-developer-in-ai-9116a2326d5f
+
+Celke
+https://celke.com.br/clms/aulas-cursos/listar/39
+
+https://portalcandidato.go.senac.br/
+https://portalcandidato.go.senac.br/
+
+https://g1.globo.com/economia/imposto-de-renda/2019/noticia/2019/12/09/receita-abre-nesta-segunda-consultas-ao-7o-lote-e-ultimo-lote-do-ir-2019.ghtml
+https://g1.globo.com/economia/imposto-de-renda/2019/noticia/2019/12/09/receita-abre-nesta-segunda-consultas-ao-7o-lote-e-ultimo-lote-do-ir-2019.ghtml
+
+Moodle - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul: Acesso ao site
+https://moodle.ifrs.edu.br/login/index.php
+
+For the love of regression - Data Decoded - Medium
+https://medium.com/data-decoded/for-the-love-of-regression-5670ed99ad48
+
+Autenticação JSON Web Token (JWT) em Node.js - Parte 2 - LuizTools
+https://www.luiztools.com.br/post/autenticacao-json-web-token-jwt-em-node-js-2/
+
+Design patterns in NodeJS - ITNEXT
+https://itnext.io/design-patterns-in-nodejs-990fed17c49c
+
+A Comprehensive Guide to Neural Networks for Beginners
+https://towardsdatascience.com/a-comprehensive-guide-on-neural-networks-for-beginners-a4ca07cee1b7
+
+Artificial Intelligence vs. Machine Learning vs. Deep Learning
+https://towardsdatascience.com/artificial-intelligence-vs-machine-learning-vs-deep-learning-2210ba8cc4ac
+
+Order - PLUX Store
+https://plux.info/quick-order
+
+3 distances that every data scientist should know - Towards Data Science
+https://towardsdatascience.com/3-distances-that-every-data-scientist-should-know-59d864e5030a
+
+How to write production-ready Node.js Rest API — Javascript version
+https://medium.com/bb-tutorials-and-thoughts/how-to-write-production-ready-node-js-rest-api-javascript-version-db64d3941106
+
+Clean Code Applied to JavaScript (Part 1) - Better Programming - Medium
+https://medium.com/better-programming/clean-code-applied-to-javascript-part-1-9f3badd5715
+
+Getting Started With R — 1 - Analytics Vidhya - Medium
+https://medium.com/analytics-vidhya/getting-started-with-r-1-4273a71fb885
+
+Building a Music Game in JavaScript: Part 2 - Better Programming - Medium
+https://medium.com/better-programming/building-a-music-game-in-javascript-part-2-ec21d37be2d8
+
+Playing with Javascript Console - InfancyIT - Medium
+https://medium.com/infancyit/playing-with-javascript-console-3cff97219307
+
+How You Should Not Write Code - JavaScript - The Startup - Medium
+https://medium.com/swlh/how-not-to-write-code-javascript-62a7fa1f819c
+
+Visual guide to Data Science - Towards Data Science
+https://towardsdatascience.com/visual-guide-to-data-science-d46bd3d9c69f
+
+Use `for…of` to Loop Through Your JavaScript Arrays
+https://medium.com/better-programming/use-for-of-to-loop-through-your-javascript-arrays-57ebb900ab5a
+
+Processo Judicial
+https://pjd.tjgo.jus.br/BuscaProcessoPublica?PaginaAtual=2&Passo=7
+
+Basic statistics for every Data Scientist - Towards Data Science
+https://towardsdatascience.com/basic-statistics-for-every-data-scientist-898ab5116a08
+
+datascience
+http://datalearninghub.com/R-course/
+
+People Analytics – Universidade Solides
+https://universidade.solides.com.br/course/people-analytics/
+
+Curso: Qualificação Docente para Ensino de Programação de Computadores
+https://profeberssa.com/faceduc/course/view.php?id=41#section-7
+
+Angular 8 e Firebase: Construindo uma aplicação integrada com a plataforma do Google - angular-8-e-firebase-construindo-uma-aplicacao-integrada-com-a-plataforma-do-google.pdf
+https://cdcebooks.s3.amazonaws.com/ebooks/hailton-david-lemos/angular-8-e-firebase-construindo-uma-aplicacao-integrada-com-a-plataforma-do-google_1574162184669/angular-8-e-firebase-construindo-uma-aplicacao-integrada-com-a-plataforma-do-google.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191212T095346Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Credential=AKIAJ62FBSRGUMYRO6VA%2F20191212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e1abc199ae095de9671e53a4afb5af1d852fa34879487a69e27f6f49c1fba5b0
+
+Bootswatch: Materia
+https://bootswatch.com/materia/
+
+Curso Online TypeScript parte 1: Evoluindo seu Javascript | Alura
+https://www.alura.com.br/curso-online-typescript-parte1
+
+Escola para Cidadania: Acesso ao site
+https://ead.escolaparacidadania.unb.br/login/index.php
+
+How to send an SMS in Node.js via SMPP Gateway - freeCodeCamp.org - Medium
+https://medium.com/free-code-camp/how-to-send-an-sms-in-node-js-via-smpp-gateway-9c7b12e4600a
+
+3 Lessons Learned From Building My First React App - The Startup - Medium
+https://medium.com/swlh/3-lessons-learned-from-building-my-first-react-app-916f443b6862
+
+Using MongoDB as realtime DB with nodeJS. - Noteworthy - The Journal Blog
+https://blog.usejournal.com/using-mongodb-as-realtime-db-with-nodejs-c6f52c266750
+
+How Classification Works - Seismic Data Science - Medium
+https://medium.com/seismic-data-science/how-classification-works-51d61c675b6e
+
+Here Are 7 Useful Node Packages (Open Source and Free to Use!)
+https://medium.com/better-programming/here-are-7-useful-node-packages-open-source-and-free-to-use-260bd17bc735
+
+ebook-MóduloVI-Teoria da Carga Cognitiva.pdf
+https://profeberssa.com/faceduc/pluginfile.php/13164/mod_page/content/23/ebook-M%C3%B3duloVI-Teoria%20da%20Carga%20Cognitiva.pdf
+
+QD-Ensino de Programação: Calendário: Visualizar mês em detalhes: dezembro 2019
+https://profeberssa.com/faceduc/calendar/view.php?view=month&course=41
+
+Anaconda Python/R Distribution - Free Download
+https://www.anaconda.com/distribution/
+
+ebook-MóduloIV-Educação Hoje.pdf
+https://profeberssa.com/faceduc/pluginfile.php/12912/mod_page/content/19/ebook-M%C3%B3duloIV-Educa%C3%A7%C3%A3o%20Hoje.pdf?time=1573933868685
+
+Automatizando navegador - Screenshot em pdf - YouTube
+https://www.youtube.com/watch?v=LzgeYZQkZks&fbclid=IwAR1RXnDnaOSMG8caVlFy_gHPzcLvUmBn77-kU1wtlJ0KGTYAqSiKcJeYHnI
+
+Capítulo 2 Regressão | Curso de Séries Temporais
+http://sillasgonzaga.com/material/curso_series_temporais/regressao.html#analise-exploratoria
+
+Paixão por Dados
+http://sillasgonzaga.com/
+
+What is Predictive Modeling? - Better Programming - Medium
+https://medium.com/better-programming/what-is-predictive-modeling-d918a4cf178e
+
+Carrinho - Usinainfo
+https://www.usinainfo.com.br/carrinho?step=3&multi-shipping=
+
+Home Automation Using ESP8266 eBook | Random Nerd Tutorials
+https://randomnerdtutorials.com/home-automation-using-esp8266/
+
+The Quick and Dirty Guide to Object-Oriented Principles
+https://medium.com/swlh/the-quick-and-dirty-guide-to-object-oriented-principles-800d62d26b35
+
+How to Build a Video Call & Voice Chat App in WebRTC Using Javascript/node.js?
+https://medium.com/hackernoon/how-to-build-a-video-call-voice-chat-app-in-webrtc-using-javascript-node-js-d256d434acbc
+
+Advanced Queries With SQL That Will Save Your Time - Towards Data Science
+https://towardsdatascience.com/advanced-queries-with-sql-that-will-save-your-time-48a45b7ca2e3
+
+5 mistakes when writing SQL queries - Towards Data Science
+https://towardsdatascience.com/5-mistakes-when-writing-sql-queries-b34ce31fcbe4
+
+Functional Programming for Beginners - Better Programming - Medium
+https://medium.com/better-programming/functional-programming-for-beginners-b518007dda81
+
+Algorithms 101: Group Anagrams in JavaScript - JavaScript in Plain English - Medium
+https://medium.com/javascript-in-plain-english/algorithms-101-group-anagrams-in-javascript-b3e3c10d211e
+
+ESP32-CAM Take Photo and Display in Web Server | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-cam-take-photo-display-web-server/
+
+Three useful, yet neglected, SQL statements - The Startup - Medium
+https://medium.com/swlh/three-useful-yet-neglected-sql-statements-9406d9316e10
+
+Opportunities in data for recent web development graduates
+https://medium.com/swlh/understand-the-flow-of-the-get-and-patch-actions-in-javascript-bb2105a34731
+
+Why are promises better than callbacks? - jsComplete EdgeCoders - Medium
+https://medium.com/edge-coders/why-are-promises-better-than-callbacks-c16f8ff1ae1e
+
+JavaScript Fundamentals: An Introduction to REST APIs
+https://itnext.io/javascript-fundamentals-an-introduction-to-rest-apis-7cbe8a809d3b
+
+Checkout – You’re 30 seconds away from accessing the course
+https://rntlab.com/checkout/?add-to-cart=17871
+
+How to Access Twitter’s API using Tweepy - Towards Data Science
+https://towardsdatascience.com/how-to-access-twitters-api-using-tweepy-5a13a206683b
+
+A practical use case for JavaScript Classes - JavaScript in Plain English - Medium
+https://medium.com/javascript-in-plain-english/a-practical-use-case-for-javascript-classes-8558f2ee1b09
+
+Linear Regression (Part 1): types, examples, Gradient descent example
+https://towardsdatascience.com/linear-regression-part-1-types-examples-gradient-descent-example-2e8c22b05f61
+
+Formação Engenheiro de Blockchain: O Curso Completo! | Udemy
+https://www.udemy.com/course/formacao-engenheiro-de-blockchain/?ranMID=39197&ranEAID=nR7sYnQvSp0&ranSiteID=nR7sYnQvSp0-i6M6i2CVI2.lgNZjh3KWrw&LSNPUBID=nR7sYnQvSp0&couponCode=9F3DA0B0B5F463BD32A5
+
+scihub.com
+http://ww1.scihub.com/?subid1=570b2dba-0155-11ea-8ce7-f101b5148d90
+
+SISTEMA DE GESTÃO EDUCACIONAL
+http://www.faculdadefanap.com.br/Sistema/SCA/Rel_ContraChequeTRON_con.asp
+
+Secretaria Virtual
+https://www.escolavirtual.gov.br/login
+
+Curso: eMAG Conteudista
+https://mooc.escolavirtual.gov.br/course/view.php?id=3587
+
+Categoria Saúde: tecnologia apresenta boas soluções para a área - Campus Mobile
+https://www.institutonetclaroembratel.org.br/campus-mobile/podcasts/categoria-saude-tecnologia-apresenta-boas-solucoes-para-area/
+
+Calçados Conforto - Botas – Melhor do Sapato
+https://www.melhordosapato.com.br/calcados-conforto/botas
+
+Bioinformática | Curso de Verão em Bioinformática UFMG
+https://cursobioinfoufmg.wixsite.com/cvbioinfo2020
+
+Python 3 : Aprenda o básico em 02 horas! | Udemy
+https://www.udemy.com/course/fabiopython3/learn/lecture/10530518#overview
+
+O que é MRP e como funciona? : e-Procurement – Blog iBid
+https://www.ibid.com.br/blog/o-que-e-mrp-e-como-funciona/?utm_campaign=newsletter_-_fundo_de_funil_segunda_parte_-_13_-_o_que_e_mrp_e_como_funciona&utm_medium=email&utm_source=RD+Station
+
+Manning | Machine Learning for Business
+https://www.manning.com/books/machine-learning-for-business
+
+E Installing Python - Machine Learning for Business: Using Amazon SageMaker and Jupyter MEAP V06
+https://livebook.manning.com/book/machine-learning-for-business/e-installing-python/v-6/
+
+Artigo SQL Magazine 45 - Questões de banco de dados do concurso da ELETRONORTE
+https://www.devmedia.com.br/artigo-sql-magazine-45-questoes-de-banco-de-dados-do-concurso-da-eletronorte/7344
+
+2 Should you send a purchase order to a technical approver? - Machine Learning for Business: Using Amazon SageMaker and Jupyter MEAP V06
+https://livebook.manning.com/book/machine-learning-for-business/chapter-2/v-6/157
+
+Machine Learning para Competições Kaggle - Curso 1 | Udemy
+https://www.udemy.com/course/machine-learning-competicoes-kaggle/learn/lecture/16708184#overview
+
+5 K-Nearest Neighbors Method - How Machine Learning Works MEAP V02
+https://livebook.manning.com/book/how-machine-learning-works/chapter-5/v-2/17
+
+Sua Vaga Foi Confirmada Com Sucesso!
+https://lp.corpoexplica.com.br/vaga-confirmada?utm_source=ActiveCampaign&utm_medium=email&utm_content=Confirme+sua+Inscri%C3%A7%C3%A3o+no+4%C2%AA+Workshop+de+An%C3%A1lise+Corporal&utm_campaign=Confirme+sua+Inscri%C3%A7%C3%A3o+na+Semana+do+Palestrante
+
+How to Schedule Cron Jobs in Node.js - JavaScript in Plain English - Medium
+https://medium.com/javascript-in-plain-english/how-to-schedule-cron-jobs-in-node-js-897215e2e5d3
+
+Apostila da Conceitos Básicos de POO - APOSTILA_3.1.1.pdf
+http://jocivan.com.br/portal/wp-content/uploads/2015/02/APOSTILA_3.1.1.pdf
+
+Linear Regression From Scratch With Python - Sigmoid - Medium
+https://medium.com/sigmoid/linear-regression-from-scratch-with-python-5c33712a1cec
+
+SQL Exercises - Using Boolean operators - w3resource
+https://www.w3resource.com/sql-exercises/sql-boolean-operators.php
+
+Guia rápido — Lendo o estado de um botão com o ESP8266 NodeMCU
+https://medium.com/@automacaoem5minutos/guia-r%C3%A1pido-lendo-o-estado-de-um-bot%C3%A3o-com-o-esp8266-nodemcu-9bb4636dba9e
+
+The Complete Guide to Linear Regression in Python - Towards Data Science
+https://towardsdatascience.com/the-complete-guide-to-linear-regression-in-python-3d3f8f06bf8
+
+Guia rápido — Alterando o brilho de um LED com um potenciômetro e NodeMCU
+https://medium.com/@automacaoem5minutos/guia-r%C3%A1pido-alterando-o-brilho-de-um-led-com-um-potenci%C3%B4metro-e-nodemcu-dcbc27133fc3
+
+SQL Injection em múltiplas plataformas
+https://www.devmedia.com.br/sql-injection-em-multiplas-plataformas/31389
+
+SQL Injection Tutorial: O que é SQL Injection? Como Evitar? Veja!
+https://www.devmedia.com.br/sql-injection/6102
+
+Como se proteger do SQL Injection - Ajuda Locaweb
+https://ajuda.locaweb.com.br/wiki/como-se-proteger-do-sql-injection/
+
+SQL Injection
+https://www.w3schools.com/sql/sql_injection.asp
+
+SQL Injection: saiba tudo sobre um ataque simples que pode ser devastador - TecMundo
+https://www.tecmundo.com.br/tecmundo-explica/113195-sql-injection-saiba-tudo-ataque-simples-devastador.htm
+
+sql machine learning - Google Acadêmico
+https://scholar.google.com.br/scholar?q=sql+machine+learning&hl=pt-BR&as_sdt=0&as_vis=1&oi=scholart
+
+sql avançado - Pesquisa Google
+https://www.google.com.br/search?source=hp&ei=Hi-4XeiMIuPC5OUP_PicqAw&q=sql+avan%C3%A7ado&oq=sql+avan&gs_l=psy-ab.3.0.0l4j0i22i10i30j0i22i30l5.1067.2727..6199...0.0..0.109.804.4j4......0....1..gws-wiz.......0i131j0i10.zYfkKiJUhNE
+
+SQL Avançado
+https://www.devmedia.com.br/sql-avancado/28889
+
+SQL UNION
+https://www.1keydata.com/pt/sql/sql-union.php
+
+Microsoft PowerPoint - SQLAvancado.ppt - SQLAvancado.pdf
+http://professor.unisinos.br/ltonietto/ccti/sql/SQLAvancado.pdf
+
+Veloe
+https://veloe.com.br/adquira/pagamento
+
+Guia rápido — Lendo um potenciômetro com o ESP8266 NodeMCU
+https://medium.com/@automacaoem5minutos/guia-r%C3%A1pido-lendo-um-potenci%C3%B4metro-com-o-esp8266-nodemcu-5f94d8cd8793
+
+criar formulario em java netbeans - Pesquisa Google
+https://www.google.com.br/search?source=hp&ei=2uiyXdbcJ4Cl5OUPuveO-A0&q=criar+formulario+em+java+netbeans&oq=criar+formulario+em+java&gs_l=psy-ab.3.3.0j0i22i30l8.410.5504..10790...1.0..0.142.2725.5j20......0....1..gws-wiz.......0i131j0i10.WDd_D6lXLUc
+
+Deep Learning for Natural Language Processing: Solve your natural language processing problems with smart deep neural networks (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/Deep-Learning-Natural-Language-Processing-ebook/dp/B07MZ3Q921/ref=pd_sbs_351_13?_encoding=UTF8&pd_rd_i=B07MZ3Q921&pd_rd_r=b1b11ca1-0978-40b2-9e09-d159af9abcbe&pd_rd_w=MK6ti&pd_rd_wg=cpXR0&pf_rd_p=c0a83291-bc10-474d-8603-f9e41ebf6f10&pf_rd_r=G68PB33SF0KBJZ6NMEFE&psc=1&refRID=G68PB33SF0KBJZ6NMEFE
+
+Predictive HR Analytics (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/gp/product/B07KWZ86DK?ref=em_1p_4_ti&ref_=pe_9830940_444731580
+
+People Analytics For Dummies (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/gp/product/B07P83KMB5?ref=em_1p_2_ti&ref_=pe_9830940_444731580
+
+The Power of People: Learn How Successful Organizations Use Workforce Analytics To Improve Business Performance (FT Press Analytics) (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/gp/product/B072FQYC1H?ref=em_1p_1_ti&ref_=pe_9830940_444731580
+
+face recognition javascript - Pesquisa Google
+https://www.google.com.br/search?source=hp&ei=Or_3XdX8OpnW5OUP1L2SsAE&q=face+recognition+javascript&oq=face+recognition+&gs_l=psy-ab.3.8.0l10.2477.235723..243161...3.0..0.287.1982.1j11j2......0....1..gws-wiz.....0..0i131.K7xJlUude-A
+
+Node.js + face-recognition.js : Simple and Robust Face Recognition using Deep Learning
+https://medium.com/@muehler.v/node-js-face-recognition-js-simple-and-robust-face-recognition-using-deep-learning-ea5ba8e852
+
+Face-api.js: reconhecimento facial em JavaScript
+https://www.infoq.com/br/news/2018/11/faces-api-js/
+
+Face Detection Using JavaScript API — face-api.js
+https://overflowjs.com/posts/Face-Detection-Using-JavaScript-API-face-apijs.html
+
+overflowjs-com/object_face_detection_webcam_react: Face/Mood detection using face-api.js
+https://github.com/overflowjs-com/object_face_detection_webcam_react
+
+Make a JavaScript Facial Recognition App that Works Like the Ones in the Movies
+https://levelup.gitconnected.com/make-your-own-facial-recognition-app-that-works-like-the-ones-in-the-movies-ca0dffd56237
+
+emotional facial recognition - Google Acadêmico
+https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&as_vis=1&q=emotional+facial+recognition&btnG=
+
+Microsoft PowerPoint - CSE891-lecture1-4.ppt - Notes Lecture1-4.pdf
+http://people.uncw.edu/ricanekk/teaching/fall10/biometrics/Notes%20Lecture1-4.pdf
+
+chimp-kin-recognition.pdf
+http://www.flyfishingdevon.co.uk/salmon/year3/psy339evaluation-evolutionary-psychology/web-resources/chimp-kin-recognition.pdf
+
+face prception kanwisher.pdf
+http://www.peterdanpsychology.ro/ro/pagina/25/files/docs/face%20prception%20kanwisher.pdf
+
+Microsoft Word - 08-_731~751_=16E11-223-ME-ed_0710_-me-r1_0710_-r2_0719_- - e02d2186ff9221cdd49a98ca6fb8dcfc9421.pdf
+https://pdfs.semanticscholar.org/9966/e02d2186ff9221cdd49a98ca6fb8dcfc9421.pdf
+
+Microsoft Word - 013_NAE17 - pdf
+https://iopscience.iop.org/article/10.1088/1757-899X/308/1/012013/pdf
+
+8719d855569ddaa08149d468aac57a762829.pdf
+https://pdfs.semanticscholar.org/77d9/8719d855569ddaa08149d468aac57a762829.pdf
+
+doi:10.1016/j.evolhumbehav.2006.05.002 - Afemaleadvantageintherecognitionofemotionalfacial.pdf
+http://sites.oxy.edu/clint/physio/article/Afemaleadvantageintherecognitionofemotionalfacial.pdf
+
+Mixed emotions: alcoholics’ impairments in the recognition of specific emotional facial expressions | Semantic Scholar
+https://www.semanticscholar.org/paper/Mixed-emotions%3A-alcoholics%E2%80%99-impairments-in-the-of-Townshend-Duka/a9496e3be438356f4e48d7209db72a2ae91e4685
+
+Masking the face: Recognition of emotional facial expressions as a function of the parameters of backward masking - j.1467-9450.1993.tb01096.x20160909-18637-1me9k91.pdf
+https://s3.amazonaws.com/academia.edu.documents/48706467/j.1467-9450.1993.tb01096.x20160909-18637-1me9k91.pdf?response-content-disposition=inline%3B%20filename%3DMasking_the_face_Recognition_of_emotiona.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20191216%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191216T174747Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4842c534e616cc64d5778549bd090939f1ab1ee711fece615ee76f1326b3f136
+
+Microsoft Word - manuscript - Alexithymia not autismCook et al PsychSci.pdf
+http://openaccess.city.ac.uk/id/eprint/4539/1/Alexithymia%20not%20autismCook%20et%20al%20PsychSci.pdf
+
+Recognition_of_facial_expressions_of_emo20160222-22381-7vazcg.pdf
+https://s3.amazonaws.com/academia.edu.documents/42929361/Recognition_of_facial_expressions_of_emo20160222-22381-7vazcg.pdf?response-content-disposition=inline%3B%20filename%3DRecognition_of_facial_expressions_of_emo.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20191216%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191216T174800Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2a4803410eaf5ee8dc58170a07c38c4c9b75c6dd3747bb565c7bbd4a152f2283
+
+Gray Computing: An Analysis of Computing with Background JavaScript Tasks - Gray-Computing-An-Analysis-of-Computing-with-Background-JavaScript-Tasks.pdf
+https://www.researchgate.net/profile/Yao_Pan3/publication/290867469_Gray_Computing_An_Analysis_of_Computing_with_Background_JavaScript_Tasks/links/57c656b908ae0a6b0dc8e1f9/Gray-Computing-An-Analysis-of-Computing-with-Background-JavaScript-Tasks.pdf
+
+09e4150abbfc7649c3000000.pdf
+https://www.researchgate.net/profile/Lars_Chittka/publication/221740322_Cognition_Your_face_looks_familiar/links/09e4150abbfc7649c3000000.pdf
+
+face recognition in autism - Google Acadêmico
+https://scholar.google.com.br/scholar?as_ylo=2019&q=face+recognition+in+autism&hl=pt-BR&as_sdt=0,5&as_vis=1
+
+facial trajectories face recognition - Google Acadêmico
+https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0,5&as_vis=1&qsp=12&q=facial+trajectories+face+recognition&qst=br
+
+download
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.3338&rep=rep1&type=pdf
+
+Barr_EtAl_IJPRAI_2012.pdf
+https://www3.nd.edu/~kwb/Barr_EtAl_IJPRAI_2012.pdf
+
+Acessar Amazon
+https://www.amazon.com.br/ap/signin?openid.assoc_handle=amzn_kweb_br&openid.return_to=https%3A%2F%2Fler.amazon.com.br%2F&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amzn_kcr&siteState=asin%3DB07TW7V7F5&openid.assoc_handle=amzn_kweb_br&openid.mode=logout&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.return_to=https%3A%2F%2Fwww.amazon.com.br%2Fap%2Fsignin%3Fopenid.assoc_handle%3Damzn_kweb_br%26openid.return_to%3Dhttps%253A%252F%252Fler.amazon.com.br%252F%26openid.mode%3Dcheckid_setup%26openid.ns%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%26openid.identity%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26openid.claimed_id%3Dhttp%253A%252F%252Fspecs.openid.net%252Fauth%252F2.0%252Fidentifier_select%26pageId%3Damzn_kcr%26siteState%3Dasin%253DB07TW7V7F5&siteState=asin%3DB07TW7V7F5&
+
+HR Analytics: estudios a medida - IIC
+http://www.iic.uam.es/soluciones/recursos-humanos/hr-analytics/
+
+Deep Learning for Natural Language Processing: Solve your natural language processing problems with smart deep neural networks (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/Deep-Learning-Natural-Language-Processing-ebook/dp/B07MZ3Q921/ref=rtpb_41?_encoding=UTF8&pd_rd_i=B07MZ3Q921&pd_rd_r=a00e4c74-25a7-44f4-827f-3557eb12bb4c&pd_rd_w=u6INE&pd_rd_wg=EHa98&pf_rd_p=593a9ff7-b83f-4048-965b-22704763611c&pf_rd_r=SPN0ZBF0BAS5EQAQ8BC9&psc=1&refRID=SPN0ZBF0BAS5EQAQ8BC9
+
+Kindle Cloud Reader
+https://ler.amazon.com.br/
+
+COD3R - Cursos de Programação Online
+https://www.cod3r.com.br/portal#/home
+
+Carreira DevMedia
+https://www.devmedia.com.br/carreira/linguagens/php/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Vem+conhecer+os+Super+Poderes+do+PHP+%E2%9A%A1&utm_campaign=Mat%C3%A9ria+-+PHP
+
+People Analytics: A transformação da gestão de pessoas I Runrun.it
+https://blog.runrun.it/people-analytics-gestao-de-pessoas/
+
+Teste do desenho do relógio para diagnosticar transtornos mentais
+https://amenteemaravilhosa.com.br/teste-do-desenho-do-relogio/
+
+relogio marcando 11 boras e 10 minutos - Pesquisa Google
+https://www.google.com.br/search?q=relogio+marcando+11+boras+e+10+minutos&tbm=isch&ved=2ahUKEwiWlK3F26PlAhUQArkGHePxAmwQ2-cCegQIABAA&oq=relogio+marcando+11+boras+e+10+minutos&gs_l=img.3...17683.24308..25100...3.0..0.279.5066.0j13j12......0....1..gws-wiz-img.DLX2df-eg7A&ei=6JaoXZaAF5CE5OUP4-OL4AY&bih=901&biw=2560#imgdii=AV14GjGVtmD_sM&imgrc=_
+
+Talent Analytics: Analítica aplicada a Recursos Humanos ?? masterseosem
+https://www.masterseosem.com/blog/talent-analytics-analitica-aplicada-a-recursos-humanos
+
+Talent Analytics para la gestión estratégica de los Recursos Humanos
+https://www.savia.net/elcoffeebreak/management/talent-analytics-para-recursos-humanos/
+
+Factores determinantes en la gestión de recursos humanos en empresas de servicios que incorporan de manera sistemática nuevas tecnologías. Un estudio de caso en la comunidad valenciana | Domínguez Santiago | Revista científica Pensamiento y Gestión
+http://rcientificas.uninorte.edu.co/index.php/pensamiento/article/view/3503/4923
+
+People Analytics & Text Mining with R (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/People-Analytics-Text-Mining-English-ebook/dp/B07PXRLL3Z/ref=sr_1_1?qid=1569883815&refinements=p_27%3AMong+Shen+Ng&s=digital-text&sr=1-1&text=Mong+Shen+Ng
+
+Celke
+https://celke.com.br/clms/home/index
+
+Node.js #2 - Como usar o Node.js na prática - YouTube
+https://www.youtube.com/watch?v=qxkXSDTL5LY&list=PLmY5AEiqDWwBHJ3i_8MDSszXXRTcFdkSu&index=2
+
+Como Criar uma Página de Vendas que Converte na Internet? - YouTube
+https://www.youtube.com/watch?v=6anIDD1NSv0
+
+Como Criar Páginas de Vendas de Alta Conversão - YouTube
+https://www.youtube.com/watch?v=CawB_ScanWM&feature=youtu.be
+
+PHP e FullCalendar #5 - Como editar o evento no FullCalendar - YouTube
+https://www.youtube.com/watch?v=2u348mDuVgU
+
+Testes Psicopedagógicos para Baixar e Imprimir - Blog PsiquEasy
+https://blog.psiqueasy.com.br/2017/09/12/links-de-testes-psicopedagogicos-diversificados/
+
+Teste Exploratório de Dislexia Específica (TEDE) - Blog PsiquEasy
+https://blog.psiqueasy.com.br/2017/09/10/teste-exploratorio-de-dislexia-especifica-tede/
+
+Testes em RH mais comuns na hora de avaliar os candidatos Blog sobre Recrutamento e Seleção
+http://blog.compleo.com.br/conheca-os-testes-mais-comuns-na-hora-de-entrevistar-os-candidatos/
+
+Teste de lógica: entenda como funciona e como treinar | Na Prática
+https://www.napratica.org.br/teste-de-logica-como-se-preparar/
+
+FALO, LOGO RECLAMO: Agências de Modelos Infantis / Testes / Trabalhos - Desrespeito total!
+http://carlaricci.blogspot.com/2012/01/agencias-de-modelos-infantis-testes.html
+
+face expression recognition javascript - Pesquisa Google
+https://www.google.com.br/search?q=face+expression+recognition+javascript&sxsrf=ACYBGNQaarWVgDyMpuHz4R5k4IhPwPBD5g:1570044600247&ei=uPqUXfvoDrfW5OUPpNu5yAs&start=10&sa=N&ved=0ahUKEwj7pLf1p_7kAhU3K7kGHaRtDrkQ8NMDCNAB&biw=2560&bih=938
+
+Node.js + face-recognition.js : Simple and Robust Face Recognition using Deep Learning
+https://medium.com/@muehler.v/node-js-face-recognition-js-simple-and-robust-face-recognition-using-deep-learning-ea5ba8e852
+
+Build an emotion recognition application with Tensorflow.js
+https://pusher.com/tutorials/emotion-recognition-tensorflow
+
+faces/App.js at master · brendansudol/faces · GitHub
+https://github.com/brendansudol/faces/blob/master/src/components/App.js
+
+20+ Emotion Recognition APIs That Will Leave You Impressed, and Concerned | Nordic APIs |
+https://nordicapis.com/20-emotion-recognition-apis-that-will-leave-you-impressed-and-concerned/
+
+Realtime JavaScript Face Tracking and Face Recognition using face-api.js’ MTCNN Face Detector
+https://itnext.io/realtime-javascript-face-tracking-and-face-recognition-using-face-api-js-mtcnn-face-detector-d924dd8b5740
+
+face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js
+https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07
+
+15 JavaScript Face Detection And Recognition Libraries 2019 - Edopedia
+https://www.edopedia.com/blog/javascript-face-detection-and-recognition-libraries/
+
+pico.js: face detection in JavaScript
+https://tehnokv.com/posts/picojs-intro/demo/
+
+face-api.js
+https://justadudewhohacks.github.io/face-api.js/face_and_landmark_detection/
+
+tracking.js | Tag Friends
+https://trackingjs.com/examples/face_tag_friends.html
+
+GraphQL: A revolucionária linguagem de consulta e manipulação de dados para APIs - graphql-a-revolucionaria-linguagem-de-consulta-e-manipulacao-de-dados-para-apis.pdf
+https://cdcebooks.s3.amazonaws.com/ebooks/hailton-david-lemos/graphql-a-revolucionaria-linguagem-de-consulta-e-manipulacao-de-dados-para-apis_1563537926757/graphql-a-revolucionaria-linguagem-de-consulta-e-manipulacao-de-dados-para-apis.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191028T154116Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Credential=AKIAJ62FBSRGUMYRO6VA%2F20191028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=dfa3871541965dce538438a446a8be93c2d51184d73152e64ffcc5a0251b3d52
+
+Calçados Conforto - Botas – Melhor do Sapato
+https://www.melhordosapato.com.br/calcados-conforto/botas?PS=18&O=OrderByTopSaleDESC
+
+2 Your first NLP example - Essential Natural Language Processing: A friendly introduction using Python MEAP V01
+https://livebook.manning.com/book/essential-natural-language-processing/chapter-2/34
+
+People Analytics & Text Mining with R (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/dp/B07PXRLL3Z?ref_=kcr_store_sample
+
+Predictive HR Analytics, Text Mining & Organizational Network Analysis: with Excel (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/Predictive-Analytics-Organizational-Network-Analysis-ebook/dp/B07TW7V7F5/ref=sr_1_3?qid=1569884047&refinements=p_27%3AMong+Shen+Ng&s=digital-text&sr=1-3&text=Mong+Shen+Ng
+
+Manning | Probabilistic Deep Learning with Python
+https://www.manning.com/books/probabilistic-deep-learning-with-python?trk_msg=P2EM2OQVI9VK1BA3CN57V7G3TS&trk_contact=HV8MHC1E1I486E643HVLQHLUOO&trk_sid=27MN2BMB19FS2SBT2TQCR7PFAC&utm_source=Listrak&utm_medium=Email&utm_term=https%3a%2f%2fmanning.com%2fbooks%2fprobabilistic-deep-learning-with-python&utm_campaign=October+1%3a++Deep+Learning+with+Structured+Data
+
+Python for Data Analytics: A Beginners Guide for Learning Python Data Analytics from A-Z (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/gp/product/B07XHP2SKZ?ref=em_1p_0_ti&ref_=pe_25718130_431873570
+
+Implementing Simple Linear Regression Using Python Without scikit-Learn
+https://medium.com/better-programming/simple-linear-regression-using-only-python-5c86af200bca
+
+Creating Graphs With JavaScript - Emma Wedekind - Medium
+https://medium.com/@emmawedekind/creating-graphs-with-javascript-4dbd7fe959be
+
+Regressão linear simples - Ensina.AI - Medium
+https://medium.com/ensina-ai/regress%C3%A3o-linear-simples-4cac67c4488c
+
+Machine Learning For Beginners: Guide To Understand Machine Learning, Artificial Intelligence, Neural Networks and Deep Learning (Machine Learning, Neural ... Deep Learning) (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/Machine-Learning-Beginners-Understand-Intelligence-ebook/dp/B07HR52SGR/ref=sr_1_1?keywords=Deep+Learning+for+JavaScript&qid=1569841578&s=gateway&sr=8-1
+
+The Anatomy of a JavaScript Function (part 1) - Ajdin Imsirovic - Medium
+https://medium.com/@ajdin.imsirovic/the-anatomy-of-a-javascript-function-part-1-49a71d48dfb1
+
+Learning Geospatial Analysis with Python - Third Edition
+https://www.packtpub.com/programming/learning-geospatial-analysis-with-python-third-edition
+
+Learn CUDA Programming
+https://www.packtpub.com/application-development/cuda-cookbook
+
+Cursos online - a qualquer hora, em qualquer lugar | Udemy
+https://www.udemy.com/cart/success/238760242/
+
+COD3R - Cursos de Programação Online
+https://www.cod3r.com.br/portal
+
+Welcome - Functional Programming with Kotlin MEAP V01
+https://livebook.manning.com/book/functional-programming-in-kotlin/welcome/v-1/
+
+Project overview - Angular Projects
+https://subscription.packtpub.com/book/web_development/9781838559359/4/ch04lvl1sec31/project-overview
+
+Cursos - Conecta Startup Brasil
+https://cursos.conectastartupbrasil.org.br/login
+
+Mary and her temperature preferences - Data Science Algorithms in a Week - Second Edition
+https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781789806076/1/ch01lvl1sec10/mary-and-her-temperature-preferences
+
+Learning Python
+https://subscription.packtpub.com/book/application_development/9781783551712
+
+Machine Learning for Trading - Hands-On Machine Learning for Algorithmic Trading
+https://subscription.packtpub.com/book/data/9781789346411/1
+
+Kindle Cloud Reader
+https://ler.amazon.com.br/
+
+Introduction to Digital Logic & Boolean Algebra: A Comprehensive Guide to Binary Operations, Logic Gates, Logical Expression Analysis, and Number Representations ... Empowering Series Book 2) (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/Introduction-Digital-Logic-Boolean-Algebra-ebook/dp/B01HTMBRC6/ref=sr_1_4?qid=1567181807&refinements=p_27%3AM+K+Gooroochurn&s=digital-text&sr=1-4&text=M+K+Gooroochurn
+
+Facebook
+https://web.facebook.com/
+
+Teoria sobre Redes Neurais - p1 - Inteligência Artificial com Arduino - YouTube
+https://www.youtube.com/watch?v=c5TA2Y8DeaM&fbclid=IwAR3jhZuTwsvkKzApB_I1kN_AsxSVNcLK08P4AWPXoYbNjTl8JDM09H4MJZM
+
+http://www.obomprogramador.com/2019/11/java-stream-api-programacao-funcional.html?fbclid=IwAR02csjtq8C13Kdldk8yjegWsfC-ZKKqP7pAFtQLWhNOV7GOcLp_PZek7Ps
+http://www.obomprogramador.com/2019/11/java-stream-api-programacao-funcional.html?fbclid=IwAR02csjtq8C13Kdldk8yjegWsfC-ZKKqP7pAFtQLWhNOV7GOcLp_PZek7Ps
+
+datascience/book at master · cleuton/datascience
+https://github.com/cleuton/datascience/tree/master/book
+
+cleuton/datascience
+https://github.com/cleuton/datascience
+
+Chatbot com Python | Udemy
+https://www.udemy.com/course/chatbot-com-python/?referralCode=C236B7BE7CA56808B6EE&fbclid=IwAR0vjB1tsizRoT53xCSOc7Wf-R2Mrio1ra5SdLvmwWH63n3AZBWPiIqk0-A
+
+Teoria sobre Redes Neurais - p1 - Inteligência Artificial com Arduino - YouTube
+https://www.youtube.com/watch?v=c5TA2Y8DeaM&fbclid=IwAR3q1WOrMXyrMvp1ox4Niw_KlAC0veJ1nQfojPJrSFhnWu5_0PnNLXsQ9Eg
+
+Grafopsicologia e a Inteligência Emocional nas Organizações e no Processo de Seleção - Blog Da Grafologia
+https://blog.academiainternacionaldegrafologia.com/grafopsicologia-e-inteligencia/?fbclid=IwAR0S2JXrlpi9CHhibOXWNoFIlNzpth_CS_VxhDATH68hUhDppjjrhZ_SmMo
+
+Especialização em Big Data e Machine Learning - Turma VII Goiânia - FASAM
+http://fasam.edu.br/curso/big-data-e-machine-learning/?fbclid=IwAR15tAFYQRJP8dCCFvqWxRweJO17DkwP_K8eDOHi4OjK4fdFMT-VBbuIV1Y
+
+Novos chips de inteligência artificial da Nvidia superam marcas de referência, diz empresa
+https://www.terra.com.br/noticias/tecnologia/novos-chips-de-inteligencia-artificial-da-nvidia-superam-marcas-de-referencia-diz-empresa,9e4acfd04c793307b767eb6dc6ae4133sh3x3kee.html?fbclid=IwAR31uhuUg1YYZWNmcEcCVomIroJDD-CtLEX9yBRPENpNbpRX-_C-d64qqRc
+
+Teoria sobre Redes Neurais - p1 - Inteligência Artificial com Arduino - YouTube
+https://www.youtube.com/watch?v=c5TA2Y8DeaM&fbclid=IwAR0Kz63bI_BQtmRIcL_3F6bY4HQ1Wt0vAcQEZFHA2X8rRxUJybPn8HZE9E8
+
+Inteligência Artificial sem fazer Faculdade é possível?? - YouTube
+https://www.youtube.com/watch?v=hfJhePzJm-k&fbclid=IwAR237qAf1PXipGOaPSY0zmdIOCmTqlkzi49jXT92EUidUgUDEjiS6uCTg7Q
+
+Quantum Computing: An Applied Approach (English Edition) - eBooks em Inglês na Amazon.com.br
+https://www.amazon.com.br/Quantum-Computing-Approach-Jack-Hidary-ebook/dp/B07X7NDFLZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+
+Como criar estratégias de Inteligência Artificial em sua empresa? | CRYPTOID
+https://cryptoid.com.br/identidade-digital-destaques/como-criar-estrategias-de-inteligencia-artificial-em-sua-empresa/?fbclid=IwAR25zEVBtDxi14xklxBSZF7uZFF3lgkCkfb6yz2iJ1SCd-OneA1XqZELgro
+
+Manual de psicopatología - Tips para el hogar
+https://tipshogar.com/manual-de-psicopatologia/?fbclid=IwAR2A2lb1BTgOfZe5iH8Pf6lnGggV-Cp00UEdVIuGS78nCvNs3LiA49063Gs
+
+Promises em JavaScript: Tudo sobre! #1 - YouTube
+https://www.youtube.com/watch?v=Tvbz6u3TyjA&feature=youtu.be&fbclid=IwAR1lugv3jTsvQpKyceR9Ila9tnBRbuTPibTDnqvxxSuE_T1SGCIjgvchJ80
+
+GitHub - cleuton/servicechoreography: Service choreography sample with Python, Java, RabbitMQ and Zookeeper
+https://github.com/cleuton/servicechoreography?fbclid=IwAR0LbN38W_JUwxF0CCQwlwd7eOf1lxFEoTY5HaVGZ0UIjZOx4dct3qdMRPo
+
+Imersão Chatbots para Whatsapp com Python e Inteligência Artificial - Sympla
+https://www.sympla.com.br/imersao-chatbots-para-whatsapp-com-python-e-inteligencia-artificial__696760?fbclid=IwAR21aE1h5xerdCg71yvdToaRBVzzFHgNSgRKEyf_TCfO2YavNx0pchYISCU
+
+Teoria dos jogos para interpretar Modelos e Previsões de Machine Learning — O Guia Definitivo
+https://medium.com/@marcos.silva0/o-guia-definitivo-teoria-dos-jogos-interpretando-machine-learning-bd8f7ef27c34
+
+Motricidad fina: ¿qué es y cómo trabajarla?
+https://laguiafemenina.com/salud-y-bienestar/motricidad-fina?fbclid=IwAR0zpKY9jDCxPjDTBWXRRAvGVwFaFV1NrGSJ8XxCqsgi9lD-xNcYr1ghJZs
+
+Altas Capacidades y Dislexia (VÍDEO) | Altas capacidades y talentos
+http://www.altascapacidadesytalentos.com/altas-capacidades-y-dislexia-video/?fbclid=IwAR3Bw3guc9CAXc1lhte2reKtrap6c7BIJYSs3cfqCfDnA3nrmIklPfKaaME
+
+Instituto Federal de Goiás - Pós-Graduação
+http://www.ifg.edu.br/estude-no-ifg/selecoes-em-andamento/pos-graduacao
+
+Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+http://selecao.ifg.edu.br/site/selecao2.php?codigo=1564&situacao=A&tipo=pos
+
+Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+http://selecao.ifg.edu.br/inscricao/?cod=1564@1887
+
+Microsoft Word - Edital PolÃ­tica e GestÃ£o VersÃ£o Final - politicasegestao20201.pdf
+http://selecao.ifg.edu.br/downloads/cod1564/politicasegestao20201.pdf
+
+Page not found · GitHub · GitHub
+https://github.com/cleuton/datascience/blob/master/R-course/lesson8/datascience-R-cleuton-sessao8.pdf%E2%80%AC?fbclid=IwAR0PJ7qOEWCfEu1wZ2U_LhVdORc1B38F6s4sCtAbi22YmnLI4zXAzS3-4k4
+
+Linguística, Letras e Artes | Tradição Planalto
+https://www.tradicaoplanalto.com.br/linguistica-letras-e-artes?fbclid=IwAR0mpCmfqlGsU7XSHodfwKRuSumpiLDytt6m3eLY4q1hocQu3An9iV8Bdfw
+
+Serverless - Full Stack Python
+https://www.fullstackpython.com/serverless.html?utm_content=bufferd13b9&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer&fbclid=IwAR1X9XL3N0TqtxdjNwSyz8UJk3YKA_5V_6htVC6J4ctriBhpatzBziNw2vw
+
+O bom programador: A matemática das redes neurais
+http://www.obomprogramador.com/2019/10/a-matematica-das-redes-neurais.html?fbclid=IwAR2Z99qhIsfdX75OOVDC82z5OUYXRjAWv7TlIyHFfrH4Q100j3uI6e0lV3I
+
+GitHub - cleuton/kuaray: Kuaray project
+https://github.com/cleuton/kuaray?fbclid=IwAR1SMw7IgiH7-dp5Nv0XLYVATZPAMZCUl9IcZslp69TeyCvwyyhEMitXIdM
+
+How to build a Knowledge Graph from Text Using spaCy
+https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/?fbclid=IwAR3vgfpWe7eLi0S6T4zbxAhOyAoCcZ51DZfrou_A7yg2eZOLF2bN_o9dk4Q
+
+O bom programador: Java em gotas: Lambda 101
+http://www.obomprogramador.com/2019/09/java-em-gotas-lambda-101.html?fbclid=IwAR1fSZHbEXR6ikKo_e3MZGL7iIQcl4VZ1Lp5b_qZRrHhTzV8RWZZbf_XizA
+
+Comunidade de Estatística do Prof. Thiago Marques
+https://pay.hotmart.com/W13512746I?checkoutMode=10&bid=1570808310506
+
+O bom programador: Como calcular o percentual de gordura do seu software
+http://www.obomprogramador.com/2018/05/como-calcular-o-percentual-de-gordura.html?fbclid=IwAR10S5Xskvx8HWZ56NN7kR4jPA351updu7BIwQqBY0Mz0CNCz0WvcC8MpAo
+
+O bom programador
+http://www.obomprogramador.com/2014/01/qual-e-um-bom-valor-para-complexidade.html%E2%80%AC?fbclid=IwAR1aW-MnS1Bt65Z97cLFWAqjYi8k5VWrcNBDzVpz8LWCkj7wqVm_vf6K43U
+
+GitHub - cleuton/facerec_cnn: A Face recognition app based on a CNN using Tensorflow
+https://github.com/cleuton/facerec_cnn?fbclid=IwAR33djUtjzbZ8iWqqPBSLXSynLr8Tb6PA6ofhzNAWqFGl0ejx6GiJG6_x4s
+
+Aprendizaje social y desarrollo de la personalidad - Albert Bandura
+https://educamar.life/teorias-del-aprendizaje-social-y-desarrollo-de-la-personalidad/?fbclid=IwAR1R-n_NwuTD6P-gZAhP8EssIPvtdg88EiR2BkccQrGlQaeg0oXYYC-cF3I
+
+Editora Ciência Moderna
+https://www.lcm.com.br/site/#/livros/detalhesLivro/data-science-para-programadores---um-guia-completo-utilizando-a-linguagem-python.html
+
+cleuton/decomp: Decomp - Técnica de estimativa de esforço de serviços de software por decomposição
+https://github.com/cleuton/decomp?fbclid=IwAR3dcRKDgF-h6dH1ME3Q3o8V2ka2bq0Hl0ng6FT5Fnlh4D4o9PI46lGviUQ
+
+Las conexiones entre arte y cerebro | (Dis)capacidades
+https://discapacidades.nexos.com.mx/?p=1175&fbclid=IwAR2Bo_sknc_MMhgnv8aG8ufr9VEOjfSBEqIuINNLYAhCr1doxoY2nnLK3yg
+
+Cómo controlar el enfado de los niños: 6 claves útiles
+https://psicologiaymente.com/desarrollo/como-controlar-enfado-ninos?fbclid=IwAR3a1jwj20QYHpNjO2QKMa3X4zRAcRKVMNWlIOIU7js0BY3kvmr9Ff9deKU
+
+Relógio Akium Masculino Aço - TMG7137A
+https://www.vivara.com.br/produto/relogio-akium-masculino-aco-tmg7137a/AK00002902
+
+Eau de Toilette - Masculino - Perfumes - Azzaro Solarissimo Marettimo Masculino Eau De Toilette
+https://www.sephora.com.br/azzaro/perfumes/masculino/azzaro-solarissimo-marettimo-masculino-eau-de-toilette-prd27170?utm_source=facebookads&utm_medium=cpc&utm_campaign=20190606_dpa_view3d_carrossel&utm_term=ROIHUNTER&utm_content=sephora_dpa_xml2_geral_view_3d
+
+?20 libros de Neurología para estudiantes y curiosos
+https://psicologiaymente.com/cultura/libros-de-neurologia
+
+?Los 16 trastornos mentales más comunes
+https://psicologiaymente.com/clinica/trastornos-mentales-mas-comunes
+
+Sistema Neuroescritural© de Evelyn Aguilera: MÉTODO NEUROESCRITURAL PARA APRENDER A LEER Y ESCRIBIR EN 40 DÍAS.
+https://sistemaneuroescritural.blogspot.com/2019/10/metodo-neuroescritural-para-aprender.html?fbclid=IwAR2ngMQMbaDEHM8uprgEf4Wzms3gqFMlnUygI5EAS5VMUxBu4OwLgZo_y7I
+
+Técnicas de intervención en terapia cognitivo conductual - Tips para el hogar
+https://tipshogar.com/tecnicas-de-intervencion-en-terapia-cognitivo-conductual/
+
+Orientação a objetos e PDO no PHP
+https://www.devmedia.com.br/orientacao-a-objetos-e-pdo-no-php/32644?fbclid=IwAR3WZyeB9UKJdbcMU2iJd1Kq-tG59ZruApjrh93Ksb99LO2XhSZUtLFhoFY
+
+CIAR - Centro Integrado de Aprendizagem em Rede
+https://www.ciar.ufg.br/
+
+EADmin - CIAR/UFG
+https://eadmin.ciar.ufg.br/EADmin/publico/processo_seletivo_em_andamento.jsf
+
+Review confirma que IA é tão eficiente quanto profissionais técnicos no diagnóstico médico a partir de imagens – IA Expert
+https://iaexpert.com.br/index.php/2019/09/27/review-confirma-que-ia-e-tao-eficiente-quanto-profissionais-tecnicos-no-diagnostico-medico-a-partir-de-imagens/?fbclid=IwAR0JgWLrOE0Q4Ykx_UdlsTQKbaq2Rf2nexoh9RtOkwRRL2F4RahjqKnGzNY
+
+Kindle Cloud Reader
+https://ler.amazon.com.br/?asin=B07NX3WM6L
+
+Lei de Benford com R e Excel: Detecte Fraudes e Anomalias | Udemy
+https://www.udemy.com/course/lei-de-benford/learn/lecture/14684740#overview
+
+Séries Temporais e Análises Preditivas: O Curso Completo | Udemy
+https://www.udemy.com/course/series-temporais/learn/lecture/14684526#overview
+
+Aprenda Regressão Linear, Regressão Logística e Correlação | Udemy
+https://www.udemy.com/course/regressao-linear-e-correlacao/learn/lecture/14684718?components=buy_button,discount_expiration,gift_this_course,introduction_asset,purchase,deal_badge,redeem_coupon&couponCode=3436778878#overview
+
+Perché i nostri figli non sanno più tenere in mano la penna - Corriere.it
+https://www.corriere.it/scuola/primaria/19_settembre_19/perche-nostri-figli-non-sanno-piu-tenere-mano-penna-cccd78ac-d87c-11e9-a64f-042100a6f996.shtml?fbclid=IwAR15T6qRUFH2sGWGcdEOmZ7a4Y4ymi8PnS7BUIr3uzSHYyfRl6RYrr73dfI
+
+Kindle Cloud Reader
+https://ler.amazon.com.br/?asin=B07KN6K31N
+
+Manual del test dibujo de la figura humana - Pesquisa Google
+https://www.google.com.br/search?biw=2560&bih=938&sxsrf=ACYBGNSrmD4g1Jruwu5jlzibtiicichxHQ%3A1568661640321&ei=iOB_XdqjE6en5OUP4OqT4A4&q=Manual+del+test+dibujo+de+la+figura+humana+&oq=Manual+del+test+dibujo+de+la+figura+humana+&gs_l=psy-ab.3..35i39.114358.114358..115546...0.0..0.178.178.0j1......0....1..gws-wiz._X0-WWNQGaQ&ved=0ahUKEwjah-D-h9bkAhWnE7kGHWD1BOw4WhDh1QMICg&uact=5
+
+Test del dibujo de la figura humana en adultos (DFH)
+https://www.recursosdeautoayuda.com/test-del-dibujo-de-la-figura-humana-en-adultos-dfh/
+
+LIBRO GRATUITO DE VELS: DIBUJO Y PERSONALIDAD
+http://grafologiauniversitaria.com/libro_vels.htm
+
+El test de la Figura Humana de Elizabeth Koppitz. (DFH)
+https://www.editorialbasilisa.com/el-test-de-la-figura-humana-de-elizabeth-koppitz-dfh
+
+datascience/nlp at master · cleuton/datascience
+https://github.com/cleuton/datascience/tree/master/nlp?fbclid=IwAR3mjSsstheleSku1To2BVzZ7p5tJEslZPUU4NfzXcFv-CInzxs7UpxSs0Y
+
+MEGA
+https://mega.nz/#F!BcFh0DgT!FAwh-nInFhRgvuQHXV68EA!IM9UELjQ
+
+audinalytics - Tutoriais
+https://sites.google.com/site/marcosfs2006/material-sobre-o-r/tutoriais?authuser=0
+
+publico:syllabvs:lcf5759a:teste_t.pdf
+http://cmq.esalq.usp.br/wiki/lib/exe/fetch.php?media=publico:syllabvs:lcf5759a:teste_t.pdf
+
+The Design of A/B Tests in an Online Marketplace
+https://tech.ebayinc.com/research/the-design-of-a-b-tests-in-an-online-marketplace/
+
+PacktPublishing/Google-Flutter-Mobile-Development-Quick-Start-Guide: Google Flutter Mobile Development Quick Start Guide, Published by Packt
+https://github.com/PacktPublishing/Google-Flutter-Mobile-Development-Quick-Start-Guide
+
+Introdução a R para Visualização e Apresentação de Dados
+http://sillasgonzaga.com/material/curso_visualizacao/outros-tipos-de-graficos.html
+
+MEGA
+https://mega.nz/#F!BcFh0DgT!FAwh-nInFhRgvuQHXV68EA!1R0jhQpJ
+
+Inteligência Artificial com PHP-ML | Udemy
+https://www.udemy.com/course/inteligencia-artificial-com-php-ml/
+
+Cursos online - a qualquer hora, em qualquer lugar | Udemy
+https://www.udemy.com/cart/
+
+Material para cursos de R - Curso-R
+http://material.curso-r.com/
+
+Learning From Data - A Short Course
+http://amlbook.com/
+
+GitHub - rodrigouroz/steganography: A tool to conceal files into images
+https://github.com/rodrigouroz/steganography?fbclid=IwAR0AvW2DVIZVtZUT2uVBMW8UdAmV33A76oVZr5aUdeEmXsl2-pimF9xzjIs
+
+Por que me interessei por programação funcional - Marcio Frayze - Medium
+https://medium.com/@marciofrayze/por-que-me-interessei-por-programa%C3%A7%C3%A3o-funcional-7d0efdaadee9
+
+[Passo-a-Passo] Criando uma aplicação com NodeJS, usando Express, Mongo, Docker e Babel - Emerson Brôga
+https://emersonbroga.com/passo-a-passo-criando-uma-aplicacao-com-nodejs-usando-express-mongo-docker-e-babel/?fbclid=IwAR25xO3n9nDZVu7I-59K8Hb73CBWb61J_FvuOuu55iweMN9KfcshZMCqH5o
+
+https://smtebooks.com/category/programming-it
+https://smtebooks.com/category/programming-it
+
+DS R Sessão5 - Inferência - YouTube
+https://www.youtube.com/watch?v=d8QcU2xtgCQ&feature=youtu.be&fbclid=IwAR2wg67vUV7HxmVlpnZLZ_6Z87mOceBK4Pw9w4ayH6jKYmHV9YRx5_4FHYs
+
+Regressão Linear Múltipla no R com interpretações - YouTube
+https://www.youtube.com/watch?v=F9afls6bfNQ
+
+NodeJS: How To Create A Simple Server Using Express - DEV Community ??????????
+https://dev.to/miku86/nodejs-how-to-create-a-simple-server-using-express-1n9d
+
+UXmood - Questionário de Avaliação
+https://docs.google.com/forms/d/e/1FAIpQLSfD-hr7AjFd721O8TI-RUWWQHEf0gAwMKhluWCfJzMmjPHP0w/viewform
+
+#01a - Deep Learning - Introdução - YouTube
+https://www.youtube.com/watch?v=ei5F76hF2bg
+
+Windows install - Flutter
+https://flutter.dev/docs/get-started/install/windows
+
+Kindle Cloud Reader
+https://ler.amazon.com.br/?asin=B07TXRFXZG
+
+persistencia-com-jdbc-hibernate-springdata.pdf
+https://www.jdevtreinamento.com.br/ebooks/persistencia-com-jdbc-hibernate-springdata.pdf?fbclid=IwAR05cGLpQ3y_SuGN0vrAhZhc_L7YzqSTymb9Yc06RjHwmOFGcaNni-XWK9A
+
+Lei de Benford com R e Excel: Detecte Fraudes e Anomalias | Udemy
+https://www.udemy.com/course/lei-de-benford/?fbclid=IwAR3QXl8pQhWlmcZo1zRgh2adH1HwPjKHTLu7wHnmqYFJ7HOxX8UV-e91uIw&couponCode=NEWPROMO21
+
+2 Drawing with 2D Vectors - Math for Programmers: 3D graphics, machine learning, and simulations with Python MEAP V07
+https://livebook.manning.com/book/math-for-programmers/chapter-2/v-6/
+
+Carreira DevMedia
+https://www.devmedia.com.br/carreira/linguagens/javascript/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Vem+aprender+a+escrever+JavaScript+do+jeito+certo&utm_campaign=Nova+Mat%C3%A9ria+de+JavaScript
+
+Curso de Introdução a linguagem JavaScript
+https://www.devmedia.com.br/curso/introducao-a-linguagem-javascript/2330
+
+EAD Escola do Trabalhador: Acesso ao site - Em modo de manutenção
+https://ead.escoladotrabalhador.gov.br/login/index.php
+
+welcome - Graph Powered Machine Learning MEAP V02
+https://livebook.manning.com/book/graph-powered-machine-learning/welcome/v-2/
+
+Reading "Microservices - A Practical Guide" | Leanpub
+https://leanpub.com/practical-microservices/read_sample
+
+Kindle Cloud Reader
+https://ler.amazon.com.br/?asin=B07GTGYX8F
+
+12 Bibliotecas Javascript que você precisa conhecer hoje - Escola de Javascript
+https://escoladejavascript.com/12-bibliotecas-javascript/
+
+Web Components - Getting Started with Web Components
+https://subscription.packtpub.com/book/web_development/9781838649234/1/ch01lvl1sec02/web-components
+
+Installing the operating system - Hands-On Robotics with JavaScript
+https://subscription.packtpub.com/book/hardware_and_creative/9781789342055/1/ch01lvl1sec13/installing-the-operating-system
+
+Immediately-Invoked Function Expression (IIFE) JavaScript Tutorial | Self-Executing Anonymous Function Example
+https://www.concretepage.com/javascript/immediately-invoked-function-expression-iife-javascript-tutorial-self-executing-anonymous-function-example
+
+Artigos BrazilJS | Promises no JavaScript
+https://braziljs.org/blog/promises-no-javascript/
+
+Build a neural network with pure JavaScript - Pesquisa Google
+https://www.google.com.br/search?q=Build+a+neural+network+with+pure+JavaScript&ei=hspeXbjpHPPF5OUPl6qpqAg&start=10&sa=N&ved=0ahUKEwi4xKmu-pbkAhXzIrkGHRdVCoUQ8NMDCI8C&biw=2560&bih=938
+
+Kindle Cloud Reader
+https://ler.amazon.com.br/?asin=B07GNZPP2P
+
+Text Generation with TensorFlow.js
+https://reiinakano.com/tfjs-lstm-text-generation/
+
+Inteligência Artificial aplicada para Empresas e Negócios | Udemy
+https://www.udemy.com/course/inteligencia-artificial-empresas-negocios/learn/lecture/15581282#overview
+
+Berkeley AI Materials
+http://ai.berkeley.edu/reinforcement.html
+
+Logon - Instituto Ayrton Senna
+https://ias.brightspace.com/d2l/login?logout=1
+
+Quadro De Árvores Com Folhas Em Espelho 60x60cm - R$ 189,00 em Mercado Livre
+https://produto.mercadolivre.com.br/MLB-1164361770-quadro-de-arvores-com-folhas-em-espelho-60x60cm-_JM#reco_item_pos=5&reco_backend=machinalis-seller-items&reco_backend_type=low_level&reco_client=vip-seller_items-above&reco_id=ea256cc4-5355-4ce1-9940-8a8ddf427def
+
+Moodle - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul: Acesso ao site
+https://moodle.ifrs.edu.br/login/index.php
+
+Curso de Angular 01: Primeiro Hello World com Angular
+https://www.devmedia.com.br/curso/ola-mundo-com-angular/2320
+
+Kindle Cloud Reader
+https://ler.amazon.com.br/?asin=B0768JL4T2
+
+Design a Parking Lot
+https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z
+
+Guia completo de Flexbox - CSS - display: flex;
+https://origamid.com/projetos/flexbox-guia-completo/?source=post_page---------------------------&fbclid=IwAR24nTiISnXLIgwHcqrJGO0r34fi0BpGizie5qOyioH50I1R7fOxWFg75iI
+
+CursosUdemy/36 - Lista - 15-12-2019.md at master · ProgramacaoPratica/CursosUdemy · GitHub
+https://github.com/ProgramacaoPratica/CursosUdemy/blob/master/Cursos%20em%20Portugu%C3%AAs/36%20-%20Lista%20-%2015-12-2019.md
+
+MEGA
+https://mega.nz/#F!b4oEnKaI!azxAf6SFxxMshJMYFftl6A!u44xRbLQ
+
+Telegram Web
+https://web.telegram.org/#/im?p=@rbrasiloficial
+
+Portugol Studio
+http://lite.acad.univali.br/portugol/
+
+Entrada - hailton.ead@gmail.com - Gmail
+https://mail.google.com/mail/u/1/#inbox
+
+Moodle IFG: Acesso ao site
+https://ead.ifg.edu.br/login/index.php
+
+Moodle Ensino: Acesso ao site
+https://www.ensino.cear.ueg.br/login/index.php
+
+UEG - Universidade Estadual de Goiás
+https://www.adms.ueg.br/auth/acesso/index/
+
+Entrada (3) - hailton.fanap@gmail.com - Gmail
+https://mail.google.com/mail/u/2/#inbox
+
+Dart POO Pra quem gosta de aprender | Udemy
+https://www.udemy.com/course/dart-poo-pra-quem-gosta-de-aprender/learn/lecture/17559862#overview
+
+10 Recursos avançados em Java EE | Udemy
+https://www.udemy.com/course/10-recursos-avancados-em-java-ee/learn/lecture/8516224#overview
+
+Lógica de Programação com Dart | Udemy
+https://www.udemy.com/course/logica-de-programacao-com-dart/learn/lecture/14272562#overview
+
+Cursos online - a qualquer hora, em qualquer lugar | Udemy
+https://www.udemy.com/cart/success/258971350/
+
+Cursos online - a qualquer hora, em qualquer lugar | Udemy
+https://www.udemy.com/cart/success/258968384/
+
+Johnny-Five: The JavaScript Robotics & IoT Platform
+http://johnny-five.io/
+
+NodeJS Curso Completo | Udemy
+https://www.udemy.com/course/nodejs-curso-completo/learn/lecture/16860788#overview
+
+exportar abas abertas firefox - Pesquisa Google
+https://www.google.com/search?client=firefox-b-d&sxsrf=ACYBGNSn1JxBDBV2pQJoMLpSgqgrJ2b6Yg%3A1579266570274&ei=CrIhXpazEKzJ5OUP29CbwA0&q=exportar+abas+abertas+firefox&oq=exportar+abas+ab&gs_l=psy-ab.3.1.0j0i22i30.33172.47619..50483...12.2..0.139.2986.0j26......0....1..gws-wiz.....10..0i71j35i39j0i131j35i305i39j0i67j0i10j0i10i67j0i10i203j35i362i39j0i131i67j0i203.apR9hEMtMas
+
+Como faco para salvar um monte de abas (Firefox) para meu de secretaria? Como em eu cliqu.. | Firefox
+http://www.accelerated-ideas.com/perguntas-e-respostas/firefox/como-faco-para-salvar-monte-abas-firefox-para-secretaria-165900-spage.aspx
+
+Como exportar todas as abas abertas no Mozilla Firefox para um arquivo TXT - Marcos Tadeu
+https://www.marcostadeu.com/artigos/como-exportar-todas-as-abas-abertas-no-mozilla-firefox-para-um-arquivo-txt/
+
+Export Tabs URLs – Instale esta extensão para o ?? Firefox (pt-BR)
+https://addons.mozilla.org/pt-BR/firefox/addon/export-tabs-urls-and-titles/
+
+NodeSchool
+https://nodeschool.io/pt-br/#workshopper-list
+
+hailtonDavid/Curso-Node: Repositório Curso Node
+https://github.com/hailtonDavid/Curso-Node
+
+Change drive in git bash for windows - Stack Overflow
+https://stackoverflow.com/questions/38563826/change-drive-in-git-bash-for-windows
+
+Fluxo de Caixa Simples do ZERO | Udemy
+https://www.udemy.com/course/fluxo-de-caixa-simples-do-zero/learn/lecture/15396350#overview
+
+Desenvolvedor Funcional com Java 8 | Udemy
+https://www.udemy.com/course/desenvolvedor-funcional-com-java-8/learn/lecture/13354678#overview
+
+Introdução ao Node JS + Express | Udemy
+https://www.udemy.com/course/introducao-ao-node-js-express/learn/lecture/6960234#overview
+
+Aplicações web na prática com Javascript e Node.js | Udemy
+https://www.udemy.com/course/aplicacoes-web-na-pratica-javascript-nodejs/learn/lecture/9147190#overview
+
+Reconhecimento Facial com Java | Udemy
+https://www.udemy.com/course/reconhecimento-facial-com-java/learn/lecture/10080256#overview
+
+javacv-examples/OpenCV_Cookbook at master · bytedeco/javacv-examples
+https://github.com/bytedeco/javacv-examples/tree/master/OpenCV_Cookbook
+
+All New 2019 Arduino Pro IDE Download Links Included - YouTube
+https://www.youtube.com/watch?v=M-TFoMr0OYc&feature=youtu.be&utm_content=educational&utm_campaign=2019-10-26&utm_source=email-sendgrid&utm_term=4765780&utm_medium=2330608
+
+Quando considerar o uso de API em projetos Android?
+https://medium.com/collabcode/quando-considerar-o-uso-de-api-em-projetos-android-ffdb4ba9ad6
+
+crud com nodejs express mysql - Pesquisa Google
+https://www.google.com.br/search?q=crud+com+nodejs+express+mysql&lr=&ei=_hLdXYe_FYnQ5OUP15GsuAc&start=20&sa=N&ved=2ahUKEwiHtsaY6YfmAhUJKLkGHdcIC3c4ChDw0wN6BAgMEEU&biw=2560&bih=938
+
+Criando minha primeira API REST com Node.js, Express, Sequelize, e MySQL para cadastro de usuários
+https://medium.com/italo-gouveia/criando-minha-primeira-api-rest-com-node-js-express-sequelize-e-mysql-para-cadastro-de-usu%C3%A1rios-1131a3e44ba1
+
+CRUD Operation usando NodeJS ExpressJS MySQL - Parte 2 ~ Saiba Infinito
+http://learninfinity.info/crud-operation-using-nodejs-expressjs-mysql-part-2/
+
+Integração de banco de dados do Express
+https://expressjs.com/pt-br/guide/database-integration.html
+
+Build Node.js Rest APIs with Express & MySQL - BezKoder
+https://bezkoder.com/node-js-rest-api-express-mysql/
+
+Node.js MySQL Tutorial - How to Build a CRUD Application? Edureka
+https://www.edureka.co/blog/node-js-mysql-tutorial/
+
+Tutorial CRUD em Node.js com driver nativo do MongoDB - Parte 3 - LuizTools
+https://www.luiztools.com.br/post/tutorial-crud-em-node-js-com-driver-nativo-do-mongodb-3/?gclid=EAIaIQobChMIlKCO4eiH5gIVCQmRCh2gBQMeEAMYAyAAEgLUzvD_BwE
+
+Build a Simple CRUD Application with Node and MySQL | Okta Developer
+https://developer.okta.com/blog/2019/09/09/build-crud-app-node-mysql
+
+First CRUD Node Express Js Mysql Example - Tuts Make
+https://www.tutsmake.com/first-crud-node-express-js-mysql-example/
+
+Build a simple app using Node JS and MySQL. - DEV Community ??????????
+https://dev.to/achowba/build-a-simple-app-using-node-js-and-mysql-19me
+
+Como usar NodeJS + MySQL - LuizTools
+https://www.luiztools.com.br/post/como-usar-nodejs-mysql/
+
+A simple CRUD using MySQL and Node Js | Codementor
+https://www.codementor.io/joanvasquez/a-simple-crud-using-mysql-and-node-js-p2xvvt6q8
+
+7 Steps to Create Simple CRUD application using Node.js, Express, and MySQL
+http://mfikri.com/en/blog/nodejs-mysql-crud
+
+Node.js, MySQL & Express: Simple Add, Edit, Delete, View (CRUD) | Mukesh Chapagain Blog
+http://blog.chapagain.com.np/node-js-express-mysql-simple-add-edit-delete-view-crud/
+
+Node.js & MySQL CRUD — Database Connection & SQL Queries | Techiediaries
+https://www.techiediaries.com/node-mysql-database-crud/
+
+Softex
+http://hmg.conectastartupbrasil.com.br/sistema/public/home
+
+TensorFlow, Deep Learning e Python: Construa um Chatbot | Udemy
+https://www.udemy.com/course/chatbot-tensorflow-deep-learning-python/?couponCode=IAEXPERTUDE&utm_content=promo&utm_campaign=2019-09-30&utm_source=email-sendgrid&utm_term=27455350&utm_medium=2518080
+
+Cursos online - a qualquer hora, em qualquer lugar | Udemy
+https://www.udemy.com/cart/subscribe/course/2034052/
+
+IA permite desenvolver novos materiais sem a necessidade de realizar experimentos – IA Expert
+https://iaexpert.com.br/index.php/2019/10/18/ia-permite-desenvolver-novos-materiais-sem-a-necessidade-de-realizar-experimentos/
+
+CRUD Básico com Bootstrap 4 , PHP e MySQL- GRATIS | Udemy
+https://www.udemy.com/course/curso-basico-de-bootstrap-4-php-e-mysql-gratis/learn/lecture/15163992#overview
+
+Introdução ao JavaScript | Udemy
+https://www.udemy.com/course/introducao-ao-javascript/learn/lecture/15848510?click_source=email&utm_content=educational&utm_campaign=2019-09-12&utm_source=email-sendgrid&utm_term=36434542&utm_medium=2509582#announcements/2688170
+
+Python para Mineração de Dados sem usar Bibliotecas | Udemy
+https://www.udemy.com/course/python-para-mineracao-de-dados/
+
+Aprendizagem por Reforço com Augmented Random Search (ARS) | Udemy
+https://www.udemy.com/course/inteligencia-artificial-augmented-random-search-ars/learn/lecture/15911406#overview
+
+Aplicações web na prática com Javascript e Node.js | Udemy
+https://www.udemy.com/course/aplicacoes-web-na-pratica-javascript-nodejs/learn/lecture/9208410#overview
+
+axios/axios: Promise based HTTP client for the browser and node.js
+https://github.com/axios/axios
+
+node-crud-restify/index.html at full · bmarchete/node-crud-restify
+https://github.com/bmarchete/node-crud-restify/blob/full/dist/index.html
+
+bmarchete/node-crud-restify
+https://github.com/bmarchete/node-crud-restify
+
+About | Node.js
+https://nodejs.org/en/about/
+
+restify/errors: HttpErrors and RestErrors extracted from restify
+https://github.com/restify/errors
+
+Knex.js - A SQL Query Builder for Javascript
+http://knexjs.org/
+
+Inteligência Artificial com JavaScript e BrainJS | Udemy
+https://www.udemy.com/course/inteligencia-artificial-com-javascript-e-brainjs/learn/lecture/15631994#overview
+
+Home | B7Web
+https://alunos.b7web.com.br/
+
+My purchases - Hotmart Hub
+https://purchase.hotmart.com/purchase
+
+Chatbot com JavaScript | Udemy
+https://www.udemy.com/course/chatbot-com-javascript/learn/lecture/15483044#overview
+
+Login de acesso | UNA-SUS
+https://acesso.unasus.gov.br/idp/module.php/core/loginuserpass.php?AuthState=_54ddca6202e818a3405ba9d07a36d84d41ea847cb3%3Ahttps%3A%2F%2Facesso.unasus.gov.br%2Fidp%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dhttps%253A%252F%252Fcursos.campusvirtual.fiocruz.br%26RelayState%3Dcookie%253A1564436768_3949%26cookieTime%3D1576857127
+
+TICs - AVAMEC
+http://avamec.mec.gov.br/#/instituicao/labtime/curso/2221/visualizar
+
+Hotmart Club - Introdução Contador Profissional
+https://contadoriniciante.club.hotmart.com/lesson/W0OvkG984j/sobre-o-treinamento
+
+DCC/UFMG Moodle: Acesso ao site
+https://moodle.dcc.ufmg.br/login/index.php
+
+Algoritmos Genéticos em Java | Udemy
+https://www.udemy.com/course/algoritmos-geneticos-em-java/?LSNPUBID=LtOw5vJl/HM&deal_code=UDEAFFFS719&ranEAID=LtOw5vJl/HM&ranMID=39197&ranSiteID=LtOw5vJl_HM-KQDd10zG3Lh23R2uu1J3CQ
+
+TypeScript, Node, ES6 e Postgres - CRIE PROJETOS DO ZERO! | Udemy
+https://www.udemy.com/course/typescript-na-pratica-criando-aplicacoes-web-com-typescript/learn/lecture/7104224#overview
+
+UI Design: Design de Interfaces com foco em Projetos Web | Udemy
+https://www.udemy.com/course/design-de-interfaces-web/?data_h=&deal_code=BRFATHERSDAY&utm_campaign=2019-08-08_._cn_BRAZIL_FATHERS_DAY_._en_TOP_._us_AllAlltl_T1_._tg_n_.__._la_pt_._rn_2019-08-08_._&utm_content=udemy.16024665&utm_medium=2019-08-08_BRAZIL_FATHERS_DAY_TOP_AllAll_T1_n&utm_source=email-Adhoc&utm_term=USER_SEARCH_RECOM_2
+
+Xamarin Forms: Do básico ao banco de dados local - dfilitto
+https://dfilitto.com.br/course/xamarin-forms-do-basico-ao-sqlite/
+
+Introdução a Grafos e Análises de Redes Sociais | Udemy
+https://www.udemy.com/course/grafos-e-analises-de-redes-sociais/?utm_campaign=2019-07-31&utm_content=promo&utm_medium=2323718&utm_source=email-sendgrid&utm_term=31369854
+
+TensorFlow, Deep Learning e Python: Construa um Chatbot | Udemy
+https://www.udemy.com/course/chatbot-tensorflow-deep-learning-python/?couponCode=IAEXPERTUDE&utm_campaign=2019-07-31&utm_content=promo&utm_medium=1617388&utm_source=email-sendgrid&utm_term=27455350
+
+Tutorial de Visual Studio Code grátis - VS Code: Produtividade Infinita Dev. Desktop + [EBOOK FREE] | Udemy
+https://www.udemy.com/course/vscode-devdesktop/?utm_campaign=2019-07-31&utm_content=educational&utm_medium=2357050&utm_source=email-sendgrid&utm_term=61282052
+
+Inteligência Artificial Para Todos com Excel | Udemy
+https://www.udemy.com/course/inteligencia-artificial-com-excel/learn/lecture/14621846#overview
+
+Universidade Solides – Cursos a Distância
+https://universidade.solides.com.br/
+
+http://gen.lib.rus.ec/search.php?req=dart&open=0&res=25&view=simple&phrase=1&column=year
+http://gen.lib.rus.ec/search.php?req=dart&open=0&res=25&view=simple&phrase=1&column=year
+
+All IT eBooks - Free IT eBooks Download
+http://www.allitebooks.org/
+
+Flutter in Action - Flutter in Action.pdf
+http://file.allitebooks.com/20200112/Flutter%20in%20Action.pdf
+
+Developing Cognitive Bots Using the IBM Watson Engine.pdf
+http://file.allitebooks.com/20200102/Developing%20Cognitive%20Bots%20Using%20the%20IBM%20Watson%20Engine.pdf
+
+Learn TensorFlow 2.0.pdf
+http://file.allitebooks.com/20191221/Learn%20TensorFlow%202.0.pdf
+
+Deep Learning Pipeline.pdf
+http://file.allitebooks.com/20191229/Deep%20Learning%20Pipeline.pdf
+
+Interactive Object-Oriented Programming in Java, 2nd Edition.pdf
+http://file.allitebooks.com/20191228/Interactive%20Object-Oriented%20Programming%20in%20Java,%202nd%20Edition.pdf
+
+Pro Apache NetBeans.pdf
+http://file.allitebooks.com/20191227/Pro%20Apache%20NetBeans.pdf
+
+Reinforcement Learning.pdf
+http://file.allitebooks.com/20171210/Reinforcement%20Learning.pdf
+
+Learn TensorFlow 2.0.pdf
+http://file.allitebooks.com/20191221/Learn%20TensorFlow%202.0.pdf
+
+Beginning App Development with Flutter.pdf
+http://file.allitebooks.com/20191207/Beginning%20App%20Development%20with%20Flutter.pdf
+
+Beginning Git and GitHub.pdf
+http://file.allitebooks.com/20191201/Beginning%20Git%20and%20GitHub.pdf
+
+Python Projects for Beginners.pdf
+http://file.allitebooks.com/20191124/Python%20Projects%20for%20Beginners.pdf
+
+Learn Java with Math.pdf
+http://file.allitebooks.com/20191120/Learn%20Java%20with%20Math.pdf
+
+The Definitive Guide to Modern Java Clients with JavaFX.pdf
+http://file.allitebooks.com/20191113/The%20Definitive%20Guide%20to%20Modern%20Java%20Clients%20with%20JavaFX.pdf
+
+JavaFX - Gluon
+https://gluonhq.com/products/javafx/
+
+Introducing Vala Programming.pdf
+http://file.allitebooks.com/20191107/Introducing%20Vala%20Programming.pdf
+
+Projects/Vala - GNOME Wiki!
+https://wiki.gnome.org/Projects/Vala
+
+MSYS2 homepage
+http://www.msys2.org/
+
+Introducing Maven, 2nd Edition.pdf
+http://file.allitebooks.com/20191105/Introducing%20Maven,%202nd%20Edition.pdf
+
+JavaScript Frameworks for Modern Web Development, 2nd Edition.pdf
+http://file.allitebooks.com/20191102/JavaScript%20Frameworks%20for%20Modern%20Web%20Development,%202nd%20Edition.pdf
+
+Beginning Flutter.pdf
+http://file.allitebooks.com/20190922/Beginning%20Flutter.pdf
+
+Practical Flutter.pdf
+http://file.allitebooks.com/20190720/Practical%20Flutter.pdf
+
+JavaScript Next.pdf
+http://file.allitebooks.com/20191025/JavaScript%20Next.pdf
+
+Building Android Apps in Python Using Kivy with Android Studio.pdf
+http://file.allitebooks.com/20191015/Building%20Android%20Apps%20in%20Python%20Using%20Kivy%20with%20Android%20Studio.pdf
+
+Flutter Recipes.pdf
+http://file.allitebooks.com/20191011/Flutter%20Recipes.pdf
+
+Windows install - Flutter
+https://flutter.dev/docs/get-started/install/windows
+
+Beginning Flutter.pdf
+http://file.allitebooks.com/20190922/Beginning%20Flutter.pdf
+
+Professional JavaScript for Web Developers, 4th Edition.pdf
+http://file.allitebooks.com/20191004/Professional%20JavaScript%20for%20Web%20Developers,%204th%20Edition.pdf
+
+Beginning Flutter.pdf
+http://file.allitebooks.com/20190922/Beginning%20Flutter.pdf
+
+Microsoft Excel 2016: Data Analysis and Business Modeling - Microsoft Excel Data Analysis and Business Modeling, 5th Edition.pdf
+http://file.allitebooks.com/20170125/Microsoft%20Excel%20Data%20Analysis%20and%20Business%20Modeling,%205th%20Edition.pdf
+
+Difference between Java Abstract Class vs Interface | Scientech Easy
+https://www.scientecheasy.com/2019/07/difference-between-abstract-class-interface.html?fbclid=IwAR18fqfO4UABYu_VlJ2Q9dBW3x6iojohkhLSDTfrxeHiH4bKZdjQjDPh1nQ
+
+Developer Academy – Sua revista sobre Desenvolvimento de Software
+https://developeracademy.com.br/
+
+Java - Serialization
+http://www.tutorialspoint.com/java/java_serialization.htm
+
+java - Qual a finalidade da interface Serializable? - Stack Overflow em Português
+https://pt.stackoverflow.com/questions/88270/qual-a-finalidade-da-interface-serializable
+
+java serializable - Pesquisa Google
+https://www.google.com.br/search?ei=PyAnXaSJEeq85OUPyL242AE&q=java+serializable&oq=java+seri&gs_l=psy-ab.3.0.0l10.4216.6390..9112...0.0..0.127.714.0j6......0....1..gws-wiz.......0i71j35i39j0i67j0i10.DA6tPBM7iOI
+
+Super() oque é isso? - Programação / Java - GUJ
+https://www.guj.com.br/t/super-oque-e-isso/68568/3
+
+Super() oque é isso? - Programação / Java - GUJ
+https://www.guj.com.br/t/super-oque-e-isso/68568/2
+
+Super() oque é isso? - Programação / Java - GUJ
+https://www.guj.com.br/t/super-oque-e-isso/68568
+
+Build a Social Network ?? in JavaScript with Graphs!
+https://codeburst.io/social-network-javascript-graph-data-structure-804f076c3809
+
+RxJS: A Simple Introduction - Ross Bulat - Medium
+https://medium.com/@rossbulat/rxjs-a-simple-introduction-32fb48f52a67
+
+Understanding PCA - Towards Data Science
+https://towardsdatascience.com/understanding-pca-fae3e243731d
+
+Getting Started with TensorFlow.js - Towards Data Science
+https://towardsdatascience.com/getting-started-with-tensorflow-js-d74c7085fc0b
+
+House price prediction using Linear Regression with TensorFlow.js
+https://towardsdatascience.com/linear-regression-with-tensorflow-js-e7b39713572
+
+Cardápio – Cascata Disk Pizza
+http://cascatadiskpizza.com.br/cascata/cardapio/
+
+Moda Feminina, Masculina, Infantil e Perfumes - Renner
+https://www.lojasrenner.com.br/
+
+Cartões Renner
+https://www.realizesolucoesfinanceiras.com.br/cartoes-renner/resumo
+
+Cartão Riachuelo Conta Online
+https://contaonline.midwayfinanceira.com.br/contaonline/home
+
+Plataforma Carolina Bori
+http://plataformacarolinabori.mec.gov.br/processo/consultar
+
+Int.ern....et:::: :::::::Banki.ng____CA.IxA
+https://internetbanking.caixa.gov.br/sinbc/#!nb/login
+
+ngrok – documentation
+https://ngrok.com/docs#getting-started-authtoken
+
+ngrok - secure introspectable tunnels to localhost
+https://dashboard.ngrok.com/auth
+
+Consultar Produto
+https://lemes.com.br.ngrok.io/lemes/lerbarra.html
+
+http ngrok - Pesquisa Google
+https://www.google.com.br/search?q=http+ngrok&sa=X&ved=2ahUKEwjy36nQnfzmAhUDF7kGHWeHBNwQ1QIoBXoECAsQBg&biw=2560&bih=938
+
+Source map errors - Firefox Developer Tools | MDN
+https://developer.mozilla.org/en-US/docs/Tools/Debugger/Source_map_errors
+
+Content-Type - HTTP | MDN
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Headers/Content-Type
+
+Modelagem de Dados e Banco de Dados - do teórico à prática sem complicações - apostila_mysql.pdf
+https://albertofelipeblog.files.wordpress.com/2016/06/apostila_mysql.pdf
+
+MySQL NATURAL JOIN - w3resource
+https://www.w3resource.com/mysql/advance-query-in-mysql/mysql-natural-join.php
+
+1ª lista de exercícios de pesquisa operacional com gabarito
+https://pt.slideshare.net/AntonioRodrigues42/1-lista-de-exerccios-de-pesquisa-operacional-com-gabarito
+
+Fale Conosco - Unicid
+https://www.unicid.edu.br/fale-conosco/
+
+MEGA
+https://mega.nz/#F!IU9B0CKI!tpgv7znJ4wxxCgr962ZJCg
+
+hcodebr/curso-javascript-projeto-calculadora-clone-final
+https://github.com/hcodebr/curso-javascript-projeto-calculadora-clone-final
+
+exemplo de regressao linear - Pesquisa Google
+https://www.google.com/search?client=firefox-b-d&q=exemplo+de+regressao+linear
+
+1.2 Estimação dos Parâmetros do Modelo - Análise de Regressão | Portal Action
+http://www.portalaction.com.br/analise-de-regressao/12-estimacao-dos-parametros-do-modelo
+
+Aula 4 modelos de regressão linear
+https://pt.slideshare.net/rodrigomuribec/aula-4-modelos-de-regresso-linear
+
+regresslide.pdf
+https://www.ime.unicamp.br/~hlachos/regresslide.pdf
+
+CAPÍTULO 9 - Regressão linear e correlação - CAPITULO9.pdf
+http://www.dpi.ufv.br/~peternelli/inf162.www.16032004/materiais/CAPITULO9.pdf
+
+O que é Regressão Linear? Entenda aqui! | Escola EDTI
+https://www.escolaedti.com.br/o-que-e-regressao-linear-entenda-aqui
+
+Microsoft PowerPoint - EstaInd009_RegSim.ppt - 489_estaind009_regsim.pdf
+http://www.producao.ufrgs.br/arquivos/disciplinas/489_estaind009_regsim.pdf
+
+Data Science e Machine Learning com Estatística e Python | Udemy
+https://www.udemy.com/course/data-science-e-machine-learning-com-estatistica-e-python/learn/lecture/16689098#overview
+
+02 - Python/
+http://localhost:8888/tree/02%20-%20Python
+
+01 - Variáveis - Vazio - Jupyter Notebook
+http://localhost:8888/notebooks/02%20-%20Python/01%20-%20Vari%C3%A1veis%20-%20Vazio.ipynb
+
+TIM Fiber
+https://atendimentolivetim.tim.com.br/portal/site/timfiber/template.LOGIN
+
+Home Page - Select or create a notebook
+http://localhost:8888/tree
+
+Untitled - Jupyter Notebook
+http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+
+gapminder/inst/extdata at master · jennybc/gapminder
+https://github.com/jennybc/gapminder/tree/master/inst/extdata
+
+Moodle - IFRS: Todos os cursos
+https://moodle.ifrs.edu.br/course/index.php?categoryid=38
+
+Curso: CSS: folhas de estilo - Turma 2020A
+https://moodle.ifrs.edu.br/course/view.php?id=1978
+
+(6) HelloWorld on Expo Developer Tools
+http://localhost:19002/
+
+Home Page - Select or create a notebook
+http://localhost:8888/tree
+
+Effective Dart: Documentation | Dart
+https://dart.dev/guides/language/effective-dart/documentation
+
+Home Page - Select or create a notebook
+http://localhost:8889/tree
+

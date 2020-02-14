@@ -1,0 +1,197 @@
+-------------------------Exemplo 01
+
+import "package:flutter/material.dart";
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  handleButtonClick() {
+    print("Testando 1,2 3");
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        title: "titulo de exemplo",
+        home: Scaffold(
+            appBar: AppBar(
+              title: Text("Titulo de exemplo"),
+            ),
+            body: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: <Widget>[
+                  Text('Olá mundo'),
+                  FlatButton(
+                      child: Text("Me aperte"), onPressed: handleButtonClick)
+                ])));
+  }
+}
+
+-------------------------Exemplo 02
+
+import "package:flutter/material.dart";
+
+void main() => runApp(MyApp());
+
+class ExemploWidget extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+        child: Column(
+      children: <Widget>[Text("Exemplo 1"), Text("Exemplo 2")],
+    ));
+  }
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        title: "titulo de exemplo",
+        home: Scaffold(
+            appBar: AppBar(
+              title: Text("Titulo de exemplo"),
+            ),
+            body: ExemploWidget()));
+  }
+}
+
+-------------------------Exemplo 03
+
+import "package:flutter/material.dart";
+
+void main() => runApp(MyApp());
+
+class ExemploWidget extends StatelessWidget {
+  String texto;
+
+  ExemploWidget({this.texto});
+
+  @override
+  Widget build(BuildContext context) {
+    return Card(
+        child: Column(
+      children: <Widget>[
+        Text("Texto passado: $texto"),
+        Text("Exemplo 2"),
+        Text(texto)
+      ],
+    ));
+  }
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        title: "titulo de exemplo",
+        home: Scaffold(
+            appBar: AppBar(
+              title: Text("Titulo de exemplo"),
+            ),
+            body: ExemploWidget(texto: 'Exemplo de texto')));
+  }
+}
+
+-------------------------Exemplo 04
+
+import "package:flutter/material.dart";
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  var lista = [
+    'Hailton',
+    'Neusa',
+    'Sophia',
+    'Vitor Hugo',
+    'Maria Eduarda',
+    'Fulana'
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        title: "titulo de exemplo",
+        home: Scaffold(
+            appBar: AppBar(
+              title: Text("Titulo de exemplo"),
+            ),
+            body: ListView.builder(
+              itemCount: lista.length,
+              itemBuilder: (context, int index) {
+                return Text(lista[index]);
+              },
+            )));
+  }
+}
+
+-------------------------Exemplo 05
+
+import "package:flutter/material.dart";
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  var lista = [
+    'Hailton',
+    'Neusa',
+    'Sophia',
+    'Vitor Hugo',
+    'Maria Eduarda',
+    'Fulana'
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        title: "titulo de exemplo",
+        home: Scaffold(
+            appBar: AppBar(
+              title: Text("Titulo de exemplo"),
+            ),
+            body: ListView.builder(
+              itemCount: lista.length,
+              itemBuilder: (context, int index) {
+                return Text(
+                  lista[index],
+                  style: TextStyle(fontSize: 20, color: Colors.red),
+                );
+              },
+            )));
+  }
+}
+
+-------------------------Exemplo 06
+
+import "package:flutter/material.dart";
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  var lista = [
+    'Hailton',
+    'Neusa',
+    'Sophia',
+    'Vitor Hugo',
+    'Maria Eduarda',
+    'Fulana'
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        title: "titulo de exemplo",
+        home: Scaffold(
+            appBar: AppBar(
+              title: Text("Titulo de exemplo"),
+            ),
+            body: ListView.builder(
+              itemCount: lista.length,
+              itemBuilder: (context, int index) {
+                var textStyle = TextStyle(fontSize: 20, color: Colors.red);
+                return Text(lista[index], style: textStyle);
+              },
+            )));
+  }
+}

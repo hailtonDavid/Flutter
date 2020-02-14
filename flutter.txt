@@ -1,0 +1,13 @@
+http://pub.dartlang.org
+https://flutter.dev/
+flutter create helloword
+cd helloword
+code .
+
+
+
+Criando seu primeiro aplicativo Flutter
+
+Abra o Visual Studio Code e a seguir abra a paleta de comandos teclando CTRL+SHIFT+P :
+
+A seguir digite flutter para ver os comandos disponíveis e clique em new Project;
