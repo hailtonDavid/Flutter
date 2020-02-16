@@ -5,9 +5,94 @@ cd helloword
 code .
 
 
+encurtador.com.br/acF01
+
 
 Criando seu primeiro aplicativo Flutter
 
 Abra o Visual Studio Code e a seguir abra a paleta de comandos teclando CTRL+SHIFT+P :
 
 A seguir digite flutter para ver os comandos disponíveis e clique em new Project;
+
+para executar apertar F5
+
+Criar um programa Dart
+
+Barra View
+Command pallet
+Dart: new project
+
+criar um stateless no vscode stl + tab
+criar um statefull no vscode stf + tab
+
+
+
+flutter web
+
+flutter config --enable-web
+
+
+colocar sempre um virgula depois do ultimo parametro para formatar.
+
+
+www.sis4.com/brModelo
+
+https://medium.com/better-programming/capturing-photos-using-camera-in-flutter-585656cd3a69
+https://medium.com/better-programming/futures-in-dart-582186ee75da
+https://medium.com/better-programming/introduction-to-flutter-on-dartpad-413b7680179b
+https://medium.com/better-programming/simple-firebase-login-flow-in-flutter-6f44c2b5c58a
+https://medium.com/better-programming/mvvm-in-flutter-edd212fd767a
+https://medium.com/flutter-community/flutter-wrap-widget-e1ee0b005b16
+https://medium.com/hackernoon/why-flutter-uses-dart-dd635a054ebf
+https://medium.com/hackernoon/whats-revolutionary-about-flutter-946915b09514
+https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e
+https://medium.com/flutter-community/the-main-function-in-flutter-24408cf9c951
+https://medium.com/better-programming/dart-methods-for-beginners-2ce4a9d8e686
+https://medium.com/better-programming/futures-in-dart-582186ee75da
+https://medium.com/better-programming/introduction-to-flutter-on-dartpad-413b7680179b
+https://medium.com/flutter-comunidade-br/flutter-com-mobx-c0f4762fbd1a
+https://www.devmedia.com.br/guia/flutter/40713#dart
+https://www.devmedia.com.br/crie-um-hello-world-com-dart/40672
+https://www.devmedia.com.br/flutter-conhecendo-os-widgets-mais-utilizados/40332
+https://imasters.com.br/mobile/flutter-parte-01-apresentando-widgets
+https://www.devmedia.com.br/hello-world-com-flutter/40321
+https://medium.com/flutter-community/flutter-pageview-widget-e0f6c8092636
+https://levelup.gitconnected.com/fluttering-dart-libraries-and-packages-972edf864ff9
+https://medium.com/@pmutisya/dark-mode-in-flutter-3742062f9f59
+https://levelup.gitconnected.com/fluttering-dart-oop-8b92cd89a7f0
+https://medium.com/flutter-community/flutter-design-patterns-10-factory-method-c53ad11d863f
+https://medium.com/flutter-community/flutter-design-patterns-11-abstract-factory-7098112925d8
+https://medium.com/flutter-community/why-widgets-in-flutter-45dd4964df03
+https://medium.com/flutter-community/implement-real-time-location-updates-on-google-maps-in-flutter-235c8a09173e
+https://medium.com/flutter-community/dart-what-are-mixins-3a72344011f3
+https://medium.com/@almirjr.ze/explicando-reactions-do-mobx-usando-tirinhas-e1ac5def1a1b
+https://medium.com/better-programming/dart-methods-for-beginners-2ce4a9d8e686
+https://medium.com/flutter-community/useful-list-methods-in-dart-6e173cac803d
+https://medium.com/flutter-community/s-o-l-i-d-the-first-5-principles-of-object-oriented-design-with-dart-f31d62135b7e
+https://medium.com/dartlang/making-dart-a-better-language-for-ui-f1ccaf9f546c
+https://medium.com/flutter-community/creating-services-to-do-the-work-in-your-flutter-app-93d6c4aa7697
+https://medium.com/@rodrigobastosv/organize-melhor-seu-c%C3%B3digo-usando-bloc-60b3457925d8
+https://medium.com/flutter-community/flutter-login-tutorial-with-flutter-bloc-ea606ef701ad
+https://medium.com/flutter-community/flutter-widget-guide-inheritedmodel-widget-in-5-mins-or-less-a2b0dd8beb43
+https://medium.com/flutter-community/flutter-sliders-demystified-4b3ea65879c
+https://medium.com/flutter-community/how-to-create-a-greetings-app-using-flutter-and-deploy-to-play-store-d3a530a89c00
+https://towardsdatascience.com/cross-platform-nlp-gui-on-flutter-75d59170864
+https://medium.com/flutter-community/authenticate-with-a-gmail-account-in-your-flutter-apps-using-firebase-authentication-9cbf95796157
+https://medium.com/flutter-community/validating-and-formatting-payment-card-text-fields-in-flutter-bebe12bc9c60
+https://medium.com/better-programming/introduction-to-flutter-animations-using-animatedcontainer-96a335cad2ca
+https://medium.com/follow-flutter/alertdialog-widget-7362c50a7b66
+https://medium.com/flutter-community/working-with-multi-dimensional-list-in-dart-78ff332430a
+
+https://dartcode.org/docs/key-bindings/
+https://medium.com/flutter-community/flutter-visual-studio-code-shortcuts-for-fast-and-efficient-development-7235bc6c3b7d
+https://medium.com/flutter-community/firestore-crud-in-flutter-a-complete-guide-67755a8afc43
+https://medium.com/@shualoko/flutter-bottomappbar-customizada-a1edafbc2b8c
+https://medium.com/flutter-community/flutter-sign-in-with-google-in-android-without-firebase-a91b977d166f
+https://medium.com/swlh/storing-in-database-with-flutter-ed534de34567
+https://medium.com/flutter-community/flutter-sign-in-with-google-in-android-without-firebase-a91b977d166f
+https://medium.com/flutter-community/error-handling-in-flutter-98fce88a34f0
+https://medium.com/swlh/how-to-create-a-simple-login-form-in-flutter-using-bloc-pattern-b55ad52a2a10
+https://levelup.gitconnected.com/fluttering-dart-9a3e74b0d9c5
+https://medium.com/dartlang/dart-asynchronous-programming-streams-2569a993324d
+https://medium.com/@rullyalves/boas-pr%C3%A1ticas-com-mobx-855f55cfe0a0
+https://medium.com/@austinhowardtech/building-a-fitness-app-with-flutter-devlog-1-eecf2bf6f5c5
